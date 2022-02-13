@@ -4,25 +4,27 @@
     "url": "https://pagos.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/pagos.yucatan.gob.mx",
     "slug": "aafy-pdp",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 572,
     "timeDay": 503,
-    "timeWeek": 572,
+    "timeWeek": 582,
     "timeMonth": 572,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 1
+    }
   },
   {
     "name": "AAFY Referenciados",
     "url": "https://pagosreferencia.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/pagosreferencia.yucatan.gob.mx",
     "slug": "aafy-referenciados",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -30,9 +32,11 @@
     "uptimeYear": "100.00%",
     "time": 556,
     "timeDay": 592,
-    "timeWeek": 556,
+    "timeWeek": 573,
     "timeMonth": 556,
     "timeYear": 556,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   }
 ]
