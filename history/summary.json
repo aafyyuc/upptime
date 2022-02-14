@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/pagos.yucatan.gob.mx",
     "slug": "aafy-pdp",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "98.66%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 554,
-    "timeDay": 444,
-    "timeWeek": 557,
-    "timeMonth": 554,
-    "timeYear": 554,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 544,
+    "timeDay": 415,
+    "timeWeek": 553,
+    "timeMonth": 544,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2022-02-13": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 711,
-    "timeDay": 1352,
-    "timeWeek": 766,
-    "timeMonth": 711,
-    "timeYear": 711,
+    "time": 696,
+    "timeDay": 1329,
+    "timeWeek": 767,
+    "timeMonth": 696,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2022-02-13": 19
     }
