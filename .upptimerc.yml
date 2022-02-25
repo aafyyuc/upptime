@@ -8,7 +8,7 @@ sites:
   - name: AAFY Referenciados
     url: https://pagosreferencia.yucatan.gob.mx
   - name: AAFY Home
-	  url: https://aafy.yucatan.gob.mx
+    url: https://aafy.yucatan.gob.mx
     
 assignees:
   - aafyyuc
