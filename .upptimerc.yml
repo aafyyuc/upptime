@@ -9,6 +9,8 @@ sites:
     url: https://pagosreferencia.yucatan.gob.mx
   - name: AAFY Home
     url: https://aafy.yucatan.gob.mx
+  - name: AAFY CFDI  
+    url: https://srvshyws.yucatan.gob.mx/cfdi2.0/    
     
 assignees:
   - aafyyuc
