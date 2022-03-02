@@ -4,9 +4,9 @@
     "url": "https://pagos.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/pagos.yucatan.gob.mx",
     "slug": "aafy-pdp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
@@ -16,6 +16,7 @@
     "timeMonth": 583,
     "timeYear": 583,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2022-02-19": 22,
       "2022-02-18": 17,
       "2022-02-13": 19
@@ -26,10 +27,10 @@
     "url": "https://pagosreferencia.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/pagosreferencia.yucatan.gob.mx",
     "slug": "aafy-referenciados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.80%",
     "time": 700,
@@ -38,6 +39,7 @@
     "timeMonth": 700,
     "timeYear": 700,
     "dailyMinutesDown": {
+      "2022-03-02": 0,
       "2022-02-27": 30,
       "2022-02-19": 21,
       "2022-02-13": 19
@@ -48,27 +50,29 @@
     "url": "https://aafy.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/aafy.yucatan.gob.mx",
     "slug": "aafy-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1310,
-    "timeDay": 1735,
-    "timeWeek": 1310,
-    "timeMonth": 1310,
-    "timeYear": 1310,
-    "dailyMinutesDown": {}
+    "time": 1227,
+    "timeDay": 1191,
+    "timeWeek": 1227,
+    "timeMonth": 1227,
+    "timeYear": 1227,
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "AAFY CFDI",
     "url": "https://srvshyws.yucatan.gob.mx/cfdi2.0/",
     "icon": "https://favicons.githubusercontent.com/srvshyws.yucatan.gob.mx",
     "slug": "aafy-cfdi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +81,8 @@
     "timeWeek": 671,
     "timeMonth": 671,
     "timeYear": 671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   }
 ]
