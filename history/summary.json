@@ -48,7 +48,7 @@
     "url": "https://aafy.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/aafy.yucatan.gob.mx",
     "slug": "aafy-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -59,7 +59,9 @@
     "timeWeek": 1150,
     "timeMonth": 1272,
     "timeYear": 1283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-28": 0
+    }
   },
   {
     "name": "AAFY CFDI",
