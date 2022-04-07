@@ -48,9 +48,9 @@
     "url": "https://aafy.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/aafy.yucatan.gob.mx",
     "slug": "aafy-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
@@ -60,6 +60,7 @@
     "timeMonth": 1327,
     "timeYear": 1273,
     "dailyMinutesDown": {
+      "2022-04-07": 0,
       "2022-03-28": 42
     }
   },
