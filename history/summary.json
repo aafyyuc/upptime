@@ -4,11 +4,11 @@
     "url": "https://pagos.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/pagos.yucatan.gob.mx",
     "slug": "aafy-pdp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.90%",
     "time": 775,
     "timeDay": 574,
@@ -16,6 +16,7 @@
     "timeMonth": 559,
     "timeYear": 775,
     "dailyMinutesDown": {
+      "2022-05-03": 1,
       "2022-04-18": 34,
       "2022-04-08": 28,
       "2022-02-19": 22,
@@ -28,10 +29,10 @@
     "url": "https://pagosreferencia.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/pagosreferencia.yucatan.gob.mx",
     "slug": "aafy-referenciados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 659,
@@ -40,6 +41,7 @@
     "timeMonth": 595,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2022-05-03": 1,
       "2022-04-18": 34,
       "2022-02-27": 30,
       "2022-02-19": 21,
@@ -51,10 +53,10 @@
     "url": "https://aafy.yucatan.gob.mx",
     "icon": "https://favicons.githubusercontent.com/aafy.yucatan.gob.mx",
     "slug": "aafy-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1343,
@@ -63,6 +65,7 @@
     "timeMonth": 1419,
     "timeYear": 1343,
     "dailyMinutesDown": {
+      "2022-05-03": 1,
       "2022-03-28": 42
     }
   },
@@ -71,7 +74,7 @@
     "url": "https://srvshyws.yucatan.gob.mx/cfdi2.0/",
     "icon": "https://favicons.githubusercontent.com/srvshyws.yucatan.gob.mx",
     "slug": "aafy-cfdi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -82,6 +85,8 @@
     "timeWeek": 869,
     "timeMonth": 722,
     "timeYear": 647,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-03": 0
+    }
   }
 ]
