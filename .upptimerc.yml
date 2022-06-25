@@ -11,6 +11,8 @@ sites:
     url: https://aafy.yucatan.gob.mx
   - name: AAFY CFDI  
     url: https://srvshyws.yucatan.gob.mx/cfdi2.0/    
+  - name: KIOSKOS - HOME
+    url: https://recaudacion.yucatan.gob.mx
     
 assignees:
   - aafyyuc
