@@ -13,6 +13,12 @@ sites:
     url: https://srvshyws.yucatan.gob.mx/cfdi2.0/    
   - name: KIOSKOS - HOME
     url: https://recaudacion.yucatan.gob.mx
+  - name: API KIOSKOS CONSULTA
+    method: POST
+    url: https://recaudacion.yucatan.gob.mx/services/kiosko/consulta
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "token":".", "referencia":"." }'
     
 assignees:
   - aafyyuc
