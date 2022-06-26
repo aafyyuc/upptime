@@ -19,6 +19,8 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "token":".", "referencia":"." }'
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co   
     
 assignees:
   - aafyyuc
