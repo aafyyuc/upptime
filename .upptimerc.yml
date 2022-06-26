@@ -19,10 +19,6 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "token":".", "referencia":"." }'
-  - name: RECAUDACION PING
-    check: "tcp-ping"
-    url: recaudacion.yucatan.gob.mx
-    port: 443
     
 assignees:
   - aafyyuc
