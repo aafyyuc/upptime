@@ -13,8 +13,6 @@ sites:
     url: https://srvshyws.yucatan.gob.mx/cfdi2.0/    
   - name: KIOSKOS - HOME
     url: https://recaudacion.yucatan.gob.mx
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
     
 assignees:
   - aafyyuc
