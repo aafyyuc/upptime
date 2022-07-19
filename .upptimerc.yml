@@ -14,11 +14,11 @@ sites:
   - name: KIOSKOS - HOME
     url: https://recaudacion.yucatan.gob.mx
   - name: SERVICOS VUE
-	  method: POST
+    method: POST
     url: https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos
-	  headers:
-		  - "Content-Type: application/json"
-	  body: '{ "cAppKey": "ghr*****", "cLineaReferencia":"121131145316911919237211275"}'    
+    headers:
+     - "Content-Type: application/json"
+    body: '{ "cAppKey": "ghr*****", "cLineaReferencia":"121131145316911919237211275"}'
     
 assignees:
   - aafyyuc
