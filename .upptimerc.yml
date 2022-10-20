@@ -27,8 +27,28 @@ sites:
     headers:
      - "Content-Type: application/x-www-form-urlencoded"
     body: cOpcion=getDetalleReferencia&cLineaReferencia=121140858799880534337181289
-    
-    
+  - name: WSINGRESOS - RECIBOPAGO
+    method: POST
+    url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsRecibosPagosWeb.r
+    __dangerous__insecure: true
+    maxResponseTime: 2000
+    expectedStatusCodes:
+     - 200
+     headers:
+     - "Content-Type: application/x-www-form-urlencoded"
+    body: cOpcion=obtenerDetalleReferencia&cLineaReferencia=121140858799880534337181289
+  - name: WSINGRESOS - GENERICO
+    method: POST
+    url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsGenericoPagosWeb.r
+    __dangerous__insecure: true
+    maxResponseTime: 2000
+    expectedStatusCodes:
+     - 200
+    headers:
+     - "Content-Type: application/x-www-form-urlencoded"
+    body: cLineaReferencia=121140858799880534337181289&cOpcion=getDetalleReferencia
+
+
 assignees:
   - aafyyuc
 
