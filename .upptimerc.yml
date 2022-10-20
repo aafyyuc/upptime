@@ -40,11 +40,13 @@ sites:
     url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsGenericoPagosWeb.r
     __dangerous__insecure: true
     maxResponseTime: 2000
-    expectedStatusCodes:
-     - 200
     headers:
      - "Content-Type: application/x-www-form-urlencoded"
     body: cLineaReferencia=121140858799880534337181289&cOpcion=getDetalleReferencia
+  - name: Reemplacamiento Yuc
+    url: https://reemplacamiento.yucatan.gob.mx
+    expectedStatusCodes:
+     - 200
 
 
 assignees:
