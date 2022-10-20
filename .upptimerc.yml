@@ -23,11 +23,9 @@ sites:
     method: POST
     url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/compartido/wspagosoxxo.r
     maxResponseTime: 2000
-    expectedStatusCodes:
-     - 200
     headers:
      - "Content-Type: application/x-www-form-urlencoded"
-    body: 'cOpcion=getDetalleReferencia&cLineaReferencia=121140858799880534337181289'
+    body: cOpcion=getDetalleReferencia&cLineaReferencia=121140858799880534337181289
     
     
 assignees:
