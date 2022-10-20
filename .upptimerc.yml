@@ -27,7 +27,7 @@ sites:
      - 200
     headers:
      - "Content-Type: application/x-www-form-urlencoded"
-    body: 'cOpcion=getDetalleReferencia&cLineaReferencia=121140858799880534337181289'    
+    body: 'cOpcion=getDetalleReferencia&cLineaReferencia=121140858799880534337181289'
     
     
 assignees:
