@@ -32,9 +32,7 @@ sites:
     url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsRecibosPagosWeb.r
     __dangerous__insecure: true
     maxResponseTime: 2000
-    expectedStatusCodes:
-     - 200
-     headers:
+    headers:
      - "Content-Type: application/x-www-form-urlencoded"
     body: cOpcion=obtenerDetalleReferencia&cLineaReferencia=121140858799880534337181289
   - name: WSINGRESOS - GENERICO
