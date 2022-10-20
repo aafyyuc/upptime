@@ -22,8 +22,8 @@ sites:
   - name: WSINGRESOS - OXXO
     method: POST
     url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/compartido/wspagosoxxo.r
-	  maxResponseTime: 2000
-	  expectedStatusCodes:
+    maxResponseTime: 2000
+    expectedStatusCodes:
      - 200
     headers:
      - "Content-Type: application/x-www-form-urlencoded"
