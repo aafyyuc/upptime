@@ -47,6 +47,13 @@ sites:
     url: https://reemplacamiento.yucatan.gob.mx
     expectedStatusCodes:
      - 200
+  - name: awardspace - ping
+    method: POST
+    url: http://www.dpechcutz.dx.am/services/phpprocessparams.php
+    maxResponseTime: 2000
+    headers:
+     - "Content-Type: application/x-www-form-urlencoded"
+    body: cOpcion=obtenerDetalleReferencia&cLineaReferencia=121140858799880534337181289
 
 
 assignees:
