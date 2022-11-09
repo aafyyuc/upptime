@@ -260,10 +260,10 @@
     "url": "https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/compartido/wspagosoxxo.r",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "99.49%",
+    "uptimeDay": "96.38%",
+    "uptimeWeek": "99.48%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
     "time": 840,
@@ -272,6 +272,7 @@
     "timeMonth": 840,
     "timeYear": 840,
     "dailyMinutesDown": {
+      "2022-11-09": 0,
       "2022-11-08": 52,
       "2022-10-20": 35
     }
