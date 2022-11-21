@@ -13,7 +13,7 @@
     "time": 650,
     "timeDay": 624,
     "timeWeek": 1199,
-    "timeMonth": 760,
+    "timeMonth": 769,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2022-10-27": 36,
@@ -49,7 +49,7 @@
     "time": 638,
     "timeDay": 646,
     "timeWeek": 604,
-    "timeMonth": 595,
+    "timeMonth": 599,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2022-09-22": 83,
@@ -82,7 +82,7 @@
     "time": 1239,
     "timeDay": 753,
     "timeWeek": 707,
-    "timeMonth": 667,
+    "timeMonth": 671,
     "timeYear": 1239,
     "dailyMinutesDown": {
       "2022-11-03": 69,
@@ -110,7 +110,7 @@
     "time": 697,
     "timeDay": 510,
     "timeWeek": 557,
-    "timeMonth": 568,
+    "timeMonth": 573,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2022-09-18": 1067,
@@ -127,18 +127,19 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
-    "uptime": "98.17%",
-    "uptimeDay": "97.24%",
+    "status": "down",
+    "uptime": "98.19%",
+    "uptimeDay": "97.23%",
     "uptimeWeek": "97.73%",
     "uptimeMonth": "96.01%",
-    "uptimeYear": "98.17%",
+    "uptimeYear": "98.19%",
     "time": 938,
     "timeDay": 631,
     "timeWeek": 614,
-    "timeMonth": 921,
+    "timeMonth": 924,
     "timeYear": 938,
     "dailyMinutesDown": {
+      "2022-11-21": 0,
       "2022-11-20": 39,
       "2022-11-19": 15,
       "2022-11-18": 49,
@@ -193,8 +194,7 @@
       "2022-09-23": 42,
       "2022-09-22": 114,
       "2022-09-21": 23,
-      "2022-09-20": 45,
-      "2022-09-14": 20
+      "2022-09-20": 45
     }
   },
   {
@@ -204,14 +204,14 @@
     "slug": "servicos-vue",
     "status": "up",
     "uptime": "98.26%",
-    "uptimeDay": "89.21%",
+    "uptimeDay": "96.88%",
     "uptimeWeek": "95.80%",
     "uptimeMonth": "97.90%",
     "uptimeYear": "98.26%",
     "time": 945,
-    "timeDay": 722,
+    "timeDay": 691,
     "timeWeek": 988,
-    "timeMonth": 962,
+    "timeMonth": 968,
     "timeYear": 945,
     "dailyMinutesDown": {
       "2022-11-20": 155,
@@ -279,7 +279,7 @@
     "time": 746,
     "timeDay": 420,
     "timeWeek": 561,
-    "timeMonth": 760,
+    "timeMonth": 767,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2022-11-09": 25,
@@ -301,7 +301,7 @@
     "time": 427,
     "timeDay": 173,
     "timeWeek": 222,
-    "timeMonth": 445,
+    "timeMonth": 452,
     "timeYear": 427,
     "dailyMinutesDown": {
       "2022-11-10": 26,
@@ -322,7 +322,7 @@
     "time": 403,
     "timeDay": 131,
     "timeWeek": 392,
-    "timeMonth": 420,
+    "timeMonth": 427,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2022-11-16": 23,
@@ -343,7 +343,7 @@
     "time": 1093,
     "timeDay": 919,
     "timeWeek": 1007,
-    "timeMonth": 1103,
+    "timeMonth": 1108,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2022-11-15": 17,
@@ -364,7 +364,7 @@
     "time": 1333,
     "timeDay": 1624,
     "timeWeek": 1681,
-    "timeMonth": 1333,
+    "timeMonth": 1321,
     "timeYear": 1333,
     "dailyMinutesDown": {}
   }
