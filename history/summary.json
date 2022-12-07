@@ -372,9 +372,9 @@
     "url": "http://www.dpechcutz.dx.am/services/phpprocessparams.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.dpechcutz.dx.am.ico",
     "slug": "awardspace-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -383,6 +383,8 @@
     "timeWeek": 1175,
     "timeMonth": 1246,
     "timeYear": 1254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 0
+    }
   }
 ]
