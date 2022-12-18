@@ -130,17 +130,16 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "97.52%",
     "uptimeYear": "98.61%",
     "time": 1082,
     "timeDay": 3820,
-    "timeWeek": 1959,
+    "timeWeek": 2013,
     "timeMonth": 1470,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2022-12-18": 10,
       "2022-12-15": 28,
       "2022-12-14": 23,
       "2022-12-13": 47,
@@ -200,7 +199,8 @@
       "2022-10-11": 114,
       "2022-10-10": 103,
       "2022-10-08": 34,
-      "2022-10-07": 92
+      "2022-10-07": 92,
+      "2022-10-06": 23
     }
   },
   {
@@ -289,11 +289,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.72%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 759,
     "timeDay": 594,
     "timeWeek": 768,
@@ -342,11 +342,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-generico",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.57%",
     "uptimeMonth": "98.36%",
-    "uptimeYear": "99.04%",
+    "uptimeYear": "99.05%",
     "time": 463,
     "timeDay": 185,
     "timeWeek": 570,
@@ -390,9 +390,9 @@
     "url": "http://www.dpechcutz.dx.am/services/phpprocessparams.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.dpechcutz.dx.am.ico",
     "slug": "awardspace-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -401,6 +401,8 @@
     "timeWeek": 1051,
     "timeMonth": 1164,
     "timeYear": 1228,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-18": 0
+    }
   }
 ]
