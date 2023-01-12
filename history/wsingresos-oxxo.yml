@@ -1,7 +1,7 @@
 url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/compartido/wspagosoxxo.r
-status: degraded
+status: up
 code: 200
-responseTime: 2565
-lastUpdated: 2023-01-12T09:51:07.050Z
+responseTime: 431
+lastUpdated: 2023-01-12T10:08:19.881Z
 startTime: Thu Oct 20 2022 01:42:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
