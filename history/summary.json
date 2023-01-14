@@ -134,9 +134,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "98.77%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "97.26%",
-    "uptimeMonth": "97.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "97.64%",
     "uptimeYear": "98.77%",
     "time": 1291,
     "timeDay": 1375,
@@ -144,7 +144,6 @@
     "timeMonth": 2181,
     "timeYear": 1291,
     "dailyMinutesDown": {
-      "2023-01-13": 13,
       "2023-01-12": 18,
       "2023-01-11": 120,
       "2023-01-10": 24,
@@ -206,7 +205,8 @@
       "2022-10-28": 41,
       "2022-10-26": 138,
       "2022-10-25": 66,
-      "2022-10-24": 128
+      "2022-10-24": 128,
+      "2022-10-23": 18
     }
   },
   {
@@ -302,11 +302,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 777,
     "timeDay": 637,
     "timeWeek": 717,
