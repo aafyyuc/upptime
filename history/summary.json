@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pagos.yucatan.gob.mx.ico",
     "slug": "aafy-pdp",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 735,
     "timeDay": 557,
     "timeWeek": 491,
@@ -132,9 +132,9 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.94%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "98.78%",
@@ -144,6 +144,7 @@
     "timeMonth": 2069,
     "timeYear": 1290,
     "dailyMinutesDown": {
+      "2023-01-14": 0,
       "2023-01-12": 18,
       "2023-01-11": 120,
       "2023-01-10": 24,
@@ -205,8 +206,7 @@
       "2022-10-28": 41,
       "2022-10-26": 138,
       "2022-10-25": 66,
-      "2022-10-24": 128,
-      "2022-10-23": 18
+      "2022-10-24": 128
     }
   },
   {
