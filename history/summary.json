@@ -133,18 +133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
     "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "96.08%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.84%",
-    "uptimeYear": "98.98%",
+    "uptime": "98.94%",
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "97.86%",
+    "uptimeYear": "98.94%",
     "time": 1295,
     "timeDay": 1598,
-    "timeWeek": 1747,
+    "timeWeek": 1781,
     "timeMonth": 1447,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2023-01-27": 12,
       "2023-01-26": 45,
       "2023-01-25": 79,
       "2023-01-24": 18,
@@ -209,7 +208,7 @@
       "2022-11-05": 16,
       "2022-11-04": 24,
       "2022-11-03": 54,
-      "2022-11-02": 69
+      "2022-11-02": 216
     }
   },
   {
@@ -218,11 +217,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "98.13%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "98.03%",
+    "uptimeYear": "98.04%",
     "time": 989,
     "timeDay": 534,
     "timeWeek": 1002,
@@ -419,9 +418,9 @@
     "url": "http://www.dpechcutz.dx.am/services/phpprocessparams.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.dpechcutz.dx.am.ico",
     "slug": "awardspace-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -430,6 +429,8 @@
     "timeWeek": 1471,
     "timeMonth": 1369,
     "timeYear": 1324,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-27": 0
+    }
   }
 ]
