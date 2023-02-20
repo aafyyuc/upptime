@@ -130,17 +130,16 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "97.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.01%",
     "uptimeYear": "99.08%",
     "time": 1268,
     "timeDay": 1030,
-    "timeWeek": 1038,
-    "timeMonth": 1272,
+    "timeWeek": 1064,
+    "timeMonth": 1277,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2023-02-20": 11,
       "2023-02-18": 66,
       "2023-02-16": 42,
       "2023-02-14": 17,
@@ -206,7 +205,7 @@
       "2022-11-25": 55,
       "2022-11-24": 41,
       "2022-11-22": 67,
-      "2022-11-21": 21
+      "2022-11-21": 44
     }
   },
   {
@@ -214,18 +213,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
-    "uptime": "98.26%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.28%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "98.26%",
+    "uptimeYear": "98.28%",
     "time": 1038,
     "timeDay": 741,
     "timeWeek": 1279,
-    "timeMonth": 1303,
+    "timeMonth": 1311,
     "timeYear": 1038,
     "dailyMinutesDown": {
+      "2023-02-20": 1,
       "2023-02-19": 21,
       "2023-02-11": 16,
       "2023-02-06": 56,
@@ -293,8 +293,7 @@
       "2022-09-26": 21,
       "2022-09-25": 24,
       "2022-09-23": 30,
-      "2022-09-21": 38,
-      "2022-09-15": 49
+      "2022-09-21": 38
     }
   },
   {
@@ -310,7 +309,7 @@
     "uptimeYear": "99.36%",
     "time": 735,
     "timeDay": 663,
-    "timeWeek": 477,
+    "timeWeek": 458,
     "timeMonth": 644,
     "timeYear": 735,
     "dailyMinutesDown": {
@@ -364,12 +363,12 @@
     "status": "up",
     "uptime": "99.22%",
     "uptimeDay": "98.44%",
-    "uptimeWeek": "99.59%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.22%",
     "time": 645,
     "timeDay": 823,
-    "timeWeek": 828,
+    "timeWeek": 715,
     "timeMonth": 867,
     "timeYear": 645,
     "dailyMinutesDown": {
