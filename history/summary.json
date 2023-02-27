@@ -6,9 +6,9 @@
     "slug": "aafy-pdp",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 809,
     "timeDay": 1534,
@@ -16,7 +16,6 @@
     "timeMonth": 1496,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2023-02-27": 10,
       "2022-12-22": 351,
       "2022-10-27": 36,
       "2022-09-22": 83,
@@ -41,9 +40,9 @@
     "slug": "aafy-referenciados",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 659,
     "timeDay": 1479,
@@ -51,7 +50,6 @@
     "timeMonth": 780,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2023-02-27": 10,
       "2022-12-22": 327,
       "2022-09-22": 83,
       "2022-09-18": 1068,
@@ -129,9 +127,9 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "91.13%",
+    "uptimeDay": "91.11%",
     "uptimeWeek": "97.43%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.08%",
@@ -209,7 +207,7 @@
       "2022-11-28": 22,
       "2022-11-27": 154,
       "2022-11-26": 1,
-      "2022-11-25": 39
+      "2022-11-25": 19
     }
   },
   {
@@ -432,12 +430,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1275,
     "timeDay": 119,
     "timeWeek": 1176,
-    "timeMonth": 1122,
+    "timeMonth": 1131,
     "timeYear": 1275,
     "dailyMinutesDown": {
       "2023-01-27": 15
