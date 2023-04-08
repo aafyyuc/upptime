@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.54%",
+    "uptimeWeek": "95.32%",
     "uptimeMonth": "92.92%",
     "uptimeYear": "99.02%",
     "time": 885,
@@ -46,7 +46,7 @@
     "status": "up",
     "uptime": "98.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "78.66%",
+    "uptimeWeek": "79.44%",
     "uptimeMonth": "89.27%",
     "uptimeYear": "98.73%",
     "time": 671,
@@ -151,9 +151,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "94.03%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "94.06%",
     "uptimeYear": "98.84%",
     "time": 1261,
     "timeDay": 708,
@@ -161,7 +161,6 @@
     "timeMonth": 1144,
     "timeYear": 1261,
     "dailyMinutesDown": {
-      "2023-04-08": 10,
       "2023-04-06": 115,
       "2023-04-05": 20,
       "2023-04-02": 18,
@@ -230,7 +229,7 @@
       "2023-01-02": 27,
       "2022-12-27": 54,
       "2022-12-25": 23,
-      "2022-12-24": 20
+      "2022-12-24": 41
     }
   },
   {
@@ -238,18 +237,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
-    "uptime": "96.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "85.29%",
-    "uptimeYear": "96.90%",
+    "uptimeYear": "96.91%",
     "time": 1106,
-    "timeDay": 1971,
+    "timeDay": 2547,
     "timeWeek": 1196,
     "timeMonth": 1731,
     "timeYear": 1106,
     "dailyMinutesDown": {
+      "2023-04-08": 0,
       "2023-04-06": 21,
       "2023-04-05": 49,
       "2023-03-31": 277,
@@ -323,7 +323,7 @@
       "2022-10-12": 39,
       "2022-10-11": 117,
       "2022-10-09": 38,
-      "2022-10-07": 65
+      "2022-10-07": 27
     }
   },
   {
