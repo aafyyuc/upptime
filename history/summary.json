@@ -153,17 +153,17 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.11%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "98.99%",
     "time": 1228,
-    "timeDay": 760,
+    "timeDay": 717,
     "timeWeek": 783,
     "timeMonth": 1029,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2023-05-16": 29,
+      "2023-05-16": 18,
       "2023-05-15": 24,
       "2023-05-14": 30,
       "2023-05-11": 16,
@@ -235,7 +235,7 @@
       "2023-01-23": 17,
       "2023-01-22": 16,
       "2023-01-20": 15,
-      "2023-01-19": 17
+      "2023-01-19": 34
     }
   },
   {
