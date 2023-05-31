@@ -114,10 +114,10 @@
     "url": "https://srvshyws.yucatan.gob.mx/cfdi2.0/",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyws.yucatan.gob.mx.ico",
     "slug": "aafy-cfdi",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.07%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "94.06%",
     "uptimeMonth": "98.22%",
     "uptimeYear": "98.48%",
     "time": 849,
@@ -126,6 +126,7 @@
     "timeMonth": 1068,
     "timeYear": 866,
     "dailyMinutesDown": {
+      "2023-05-31": 0,
       "2023-05-28": 479,
       "2023-05-25": 119,
       "2023-05-07": 16,
@@ -154,9 +155,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.26%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.03%",
     "time": 1206,
     "timeDay": 716,
@@ -164,7 +165,6 @@
     "timeMonth": 776,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2023-05-31": 10,
       "2023-05-30": 20,
       "2023-05-26": 44,
       "2023-05-20": 16,
@@ -237,7 +237,7 @@
       "2023-01-28": 21,
       "2023-01-27": 38,
       "2023-01-26": 45,
-      "2023-01-25": 56
+      "2023-01-25": 79
     }
   },
   {
