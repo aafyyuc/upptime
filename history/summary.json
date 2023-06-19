@@ -248,10 +248,10 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "97.41%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "91.86%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "91.85%",
     "uptimeMonth": "96.59%",
     "uptimeYear": "97.41%",
     "time": 1112,
@@ -335,7 +335,7 @@
       "2022-11-28": 100,
       "2022-11-27": 25,
       "2022-11-20": 155,
-      "2022-11-17": 73
+      "2022-11-17": 55
     }
   },
   {
@@ -506,11 +506,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/reemplacamiento.yucatan.gob.mx.ico",
     "slug": "reemplacamiento-yuc",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.63%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "99.39%",
+    "uptimeYear": "99.40%",
     "time": 1139,
     "timeDay": 1022,
     "timeWeek": 937,
