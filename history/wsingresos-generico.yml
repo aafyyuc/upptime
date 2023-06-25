@@ -1,7 +1,7 @@
 url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsGenericoPagosWeb.r
-status: degraded
+status: up
 code: 200
-responseTime: 25648
-lastUpdated: 2023-06-25T05:33:37.621Z
+responseTime: 435
+lastUpdated: 2023-06-25T06:10:35.383Z
 startTime: Thu Oct 20 2022 02:38:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
