@@ -158,9 +158,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "98.99%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.76%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.79%",
     "uptimeYear": "98.90%",
     "time": 1189,
     "timeDay": 1225,
@@ -168,7 +168,7 @@
     "timeMonth": 1247,
     "timeYear": 1175,
     "dailyMinutesDown": {
-      "2023-07-28": 29,
+      "2023-07-28": 16,
       "2023-07-26": 18,
       "2023-07-25": 38,
       "2023-07-24": 17,
@@ -243,7 +243,8 @@
       "2023-03-09": 38,
       "2023-03-07": 42,
       "2023-03-06": 31,
-      "2023-03-05": 25
+      "2023-03-05": 25,
+      "2023-03-02": 17
     }
   },
   {
@@ -251,18 +252,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "97.27%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "97.88%",
-    "uptimeYear": "97.20%",
+    "uptimeYear": "97.21%",
     "time": 1108,
     "timeDay": 898,
     "timeWeek": 1084,
     "timeMonth": 1070,
     "timeYear": 1109,
     "dailyMinutesDown": {
+      "2023-07-28": 0,
       "2023-07-23": 18,
       "2023-07-21": 96,
       "2023-07-20": 21,
@@ -347,7 +349,7 @@
       "2022-12-15": 526,
       "2022-12-14": 31,
       "2022-12-11": 591,
-      "2022-12-08": 42
+      "2022-12-08": 16
     }
   },
   {
