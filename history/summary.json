@@ -165,17 +165,16 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.32%",
     "time": 1186,
     "timeDay": 923,
     "timeWeek": 1103,
     "timeMonth": 1175,
-    "timeYear": 1224,
+    "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-09-26": 13,
       "2023-09-25": 26,
       "2023-09-19": 24,
       "2023-09-16": 24,
@@ -249,7 +248,8 @@
       "2023-05-15": 24,
       "2023-05-14": 30,
       "2023-05-11": 16,
-      "2023-05-10": 39
+      "2023-05-10": 39,
+      "2023-05-08": 16
     }
   },
   {
@@ -607,10 +607,10 @@
     "url": "http://www.dpechcutz.dx.am/services/phpprocessparams.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.dpechcutz.dx.am.ico",
     "slug": "awardspace-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.92%",
     "time": 1077,
@@ -619,6 +619,7 @@
     "timeMonth": 1047,
     "timeYear": 1077,
     "dailyMinutesDown": {
+      "2023-09-26": 1,
       "2023-09-20": 16,
       "2023-09-17": 17,
       "2023-09-15": 40,
