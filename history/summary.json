@@ -260,9 +260,9 @@
     "slug": "servicos-vue",
     "status": "up",
     "uptime": "97.83%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.10%",
     "uptimeYear": "97.39%",
     "time": 1177,
     "timeDay": 773,
@@ -270,7 +270,6 @@
     "timeMonth": 941,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2023-10-01": 10,
       "2023-09-26": 19,
       "2023-09-20": 24,
       "2023-09-16": 16,
@@ -358,7 +357,7 @@
       "2023-01-24": 32,
       "2023-01-23": 24,
       "2023-01-22": 39,
-      "2023-01-20": 19
+      "2023-01-20": 40
     }
   },
   {
@@ -609,9 +608,9 @@
     "url": "http://www.dpechcutz.dx.am/services/phpprocessparams.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.dpechcutz.dx.am.ico",
     "slug": "awardspace-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.89%",
@@ -621,7 +620,7 @@
     "timeMonth": 1001,
     "timeYear": 1062,
     "dailyMinutesDown": {
-      "2023-10-01": 19,
+      "2023-10-01": 20,
       "2023-09-28": 78,
       "2023-09-27": 58,
       "2023-09-26": 16,
