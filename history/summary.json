@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pagos.yucatan.gob.mx.ico",
     "slug": "aafy-pdp",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
@@ -261,18 +261,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "97.39%",
+    "uptimeYear": "97.40%",
     "time": 1176,
     "timeDay": 749,
     "timeWeek": 802,
     "timeMonth": 957,
     "timeYear": 1201,
     "dailyMinutesDown": {
+      "2023-10-14": 0,
       "2023-10-05": 21,
       "2023-10-04": 19,
       "2023-09-26": 19,
@@ -361,7 +362,7 @@
       "2023-01-26": 27,
       "2023-01-24": 32,
       "2023-01-23": 24,
-      "2023-01-22": 39
+      "2023-01-22": 16
     }
   },
   {
