@@ -120,7 +120,7 @@
     "uptimeYear": "97.44%",
     "time": 963,
     "timeDay": 641,
-    "timeWeek": 1154,
+    "timeWeek": 1205,
     "timeMonth": 1576,
     "timeYear": 1054,
     "dailyMinutesDown": {
@@ -168,18 +168,19 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "96.51%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "97.76%",
     "uptimeWeek": "98.96%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.33%",
-    "time": 1203,
-    "timeDay": 2072,
+    "time": 1204,
+    "timeDay": 1813,
     "timeWeek": 1325,
     "timeMonth": 1048,
     "timeYear": 1224,
     "dailyMinutesDown": {
+      "2023-10-16": 1,
       "2023-10-15": 74,
       "2023-10-14": 15,
       "2023-10-09": 17,
@@ -250,8 +251,7 @@
       "2023-06-04": 19,
       "2023-06-03": 40,
       "2023-06-02": 39,
-      "2023-05-30": 20,
-      "2023-05-26": 20
+      "2023-05-30": 20
     }
   },
   {
@@ -261,17 +261,16 @@
     "slug": "servicos-vue",
     "status": "up",
     "uptime": "97.90%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "97.39%",
     "time": 1179,
     "timeDay": 1125,
     "timeWeek": 1212,
-    "timeMonth": 1040,
+    "timeMonth": 1014,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2023-10-16": 11,
       "2023-10-14": 18,
       "2023-10-05": 21,
       "2023-10-04": 19,
@@ -360,7 +359,8 @@
       "2023-01-27": 16,
       "2023-01-26": 27,
       "2023-01-24": 32,
-      "2023-01-23": 24
+      "2023-01-23": 24,
+      "2023-01-22": 16
     }
   },
   {
@@ -579,7 +579,7 @@
     "uptimeYear": "99.56%",
     "time": 1101,
     "timeDay": 942,
-    "timeWeek": 950,
+    "timeWeek": 963,
     "timeMonth": 970,
     "timeYear": 1101,
     "dailyMinutesDown": {
@@ -622,7 +622,7 @@
     "uptimeYear": "99.83%",
     "time": 1053,
     "timeDay": 1890,
-    "timeWeek": 978,
+    "timeWeek": 921,
     "timeMonth": 1014,
     "timeYear": 1053,
     "dailyMinutesDown": {
