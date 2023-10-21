@@ -170,9 +170,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "98.43%",
-    "uptimeMonth": "99.28%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.33%",
     "time": 1208,
     "timeDay": 719,
@@ -180,7 +180,6 @@
     "timeMonth": 1022,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2023-10-21": 10,
       "2023-10-20": 17,
       "2023-10-19": 26,
       "2023-10-16": 31,
@@ -251,7 +250,8 @@
       "2023-06-11": 19,
       "2023-06-10": 16,
       "2023-06-07": 36,
-      "2023-06-04": 19
+      "2023-06-04": 19,
+      "2023-06-03": 40
     }
   },
   {
@@ -571,10 +571,10 @@
     "url": "https://reemplacamiento.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/reemplacamiento.yucatan.gob.mx.ico",
     "slug": "reemplacamiento-yuc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 1099,
@@ -583,6 +583,7 @@
     "timeMonth": 982,
     "timeYear": 1100,
     "dailyMinutesDown": {
+      "2023-10-21": 1,
       "2023-09-08": 60,
       "2023-09-06": 21,
       "2023-07-17": 17,
