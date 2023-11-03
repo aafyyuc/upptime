@@ -103,8 +103,7 @@
       "2023-03-26": 309,
       "2023-03-22": 134,
       "2023-03-21": 40,
-      "2022-12-22": 395,
-      "2022-11-03": 69
+      "2022-12-22": 395
     }
   },
   {
@@ -170,9 +169,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "98.13%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.09%",
     "uptimeYear": "99.33%",
     "time": 1220,
     "timeDay": 741,
@@ -180,7 +179,6 @@
     "timeMonth": 1066,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2023-11-02": 11,
       "2023-11-01": 43,
       "2023-10-31": 16,
       "2023-10-30": 59,
@@ -249,7 +247,8 @@
       "2023-06-27": 1293,
       "2023-06-26": 20,
       "2023-06-25": 17,
-      "2023-06-24": 31
+      "2023-06-24": 31,
+      "2023-06-20": 21
     }
   },
   {
@@ -258,14 +257,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.21%",
     "uptimeMonth": "98.59%",
     "uptimeYear": "97.31%",
     "time": 1173,
     "timeDay": 767,
-    "timeWeek": 964,
+    "timeWeek": 986,
     "timeMonth": 1047,
     "timeYear": 1216,
     "dailyMinutesDown": {
@@ -623,7 +622,7 @@
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.37%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.83%",
     "time": 1024,
     "timeDay": 1010,
