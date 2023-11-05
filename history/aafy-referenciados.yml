@@ -1,7 +1,7 @@
 url: https://pagosreferencia.yucatan.gob.mx
-status: up
-code: 200
-responseTime: 605
-lastUpdated: 2023-11-04T23:08:53.082Z
+status: down
+code: 502
+responseTime: 2461
+lastUpdated: 2023-11-05T05:42:50.638Z
 startTime: 2022-02-06T03:12:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
