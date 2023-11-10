@@ -178,7 +178,7 @@
     "uptimeYear": "99.58%",
     "time": 1214,
     "timeDay": 799,
-    "timeWeek": 875,
+    "timeWeek": 874,
     "timeMonth": 1078,
     "timeYear": 1221,
     "dailyMinutesDown": {
@@ -259,9 +259,9 @@
     "slug": "servicos-vue",
     "status": "up",
     "uptime": "97.95%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "97.31%",
     "time": 1186,
     "timeDay": 1465,
@@ -269,7 +269,6 @@
     "timeMonth": 1092,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2023-11-09": 11,
       "2023-11-08": 16,
       "2023-11-01": 39,
       "2023-10-27": 343,
@@ -359,7 +358,7 @@
       "2023-02-19": 21,
       "2023-02-11": 16,
       "2023-02-06": 56,
-      "2023-02-01": 91
+      "2023-02-01": 119
     }
   },
   {
@@ -493,8 +492,7 @@
       "2022-12-12": 26,
       "2022-12-11": 383,
       "2022-11-29": 28,
-      "2022-11-24": 21,
-      "2022-11-10": 26
+      "2022-11-24": 21
     }
   },
   {
@@ -619,7 +617,7 @@
     "slug": "awardspace-ping",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "91.59%",
+    "uptimeDay": "94.63%",
     "uptimeWeek": "98.80%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.80%",
