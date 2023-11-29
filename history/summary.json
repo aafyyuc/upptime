@@ -118,9 +118,9 @@
     "slug": "aafy-cfdi",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.64%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "97.32%",
     "time": 1091,
     "timeDay": 15829,
@@ -128,7 +128,6 @@
     "timeMonth": 2573,
     "timeYear": 1249,
     "dailyMinutesDown": {
-      "2023-11-29": 9,
       "2023-11-22": 378,
       "2023-11-11": 156,
       "2023-11-10": 17,
@@ -265,12 +264,12 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "98.59%",
+    "status": "down",
+    "uptime": "98.06%",
+    "uptimeDay": "98.56%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "97.34%",
+    "uptimeYear": "97.35%",
     "time": 1202,
     "timeDay": 1533,
     "timeWeek": 971,
@@ -363,8 +362,7 @@
       "2023-03-26": 638,
       "2023-03-24": 22,
       "2023-03-23": 181,
-      "2023-03-14": 23,
-      "2023-03-13": 25
+      "2023-03-14": 23
     }
   },
   {
