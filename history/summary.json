@@ -124,12 +124,12 @@
     "slug": "aafy-cfdi",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "95.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "70.62%",
     "uptimeMonth": "91.86%",
     "uptimeYear": "96.75%",
     "time": 1280,
-    "timeDay": 913,
+    "timeDay": 955,
     "timeWeek": 4514,
     "timeMonth": 5028,
     "timeYear": 1491,
@@ -190,9 +190,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "97.93%",
-    "uptimeWeek": "86.08%",
-    "uptimeMonth": "95.24%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "86.18%",
+    "uptimeMonth": "95.26%",
     "uptimeYear": "99.38%",
     "time": 1222,
     "timeDay": 969,
@@ -200,7 +200,6 @@
     "timeMonth": 1204,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-12-10": 10,
       "2023-12-09": 98,
       "2023-12-08": 46,
       "2023-12-07": 653,
@@ -262,7 +261,8 @@
       "2023-08-28": 20,
       "2023-08-27": 17,
       "2023-08-25": 53,
-      "2023-08-24": 57
+      "2023-08-24": 57,
+      "2023-08-22": 23
     }
   },
   {
@@ -270,9 +270,9 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "94.20%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "94.17%",
     "uptimeWeek": "73.69%",
     "uptimeMonth": "93.09%",
     "uptimeYear": "98.04%",
@@ -282,6 +282,7 @@
     "timeMonth": 1019,
     "timeYear": 1220,
     "dailyMinutesDown": {
+      "2023-12-10": 0,
       "2023-12-09": 83,
       "2023-12-07": 1251,
       "2023-12-06": 1284,
@@ -365,7 +366,7 @@
       "2023-04-09": 255,
       "2023-04-08": 21,
       "2023-04-06": 21,
-      "2023-04-05": 49
+      "2023-04-05": 31
     }
   },
   {
