@@ -125,12 +125,12 @@
     "status": "up",
     "uptime": "98.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.82%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "92.12%",
     "uptimeYear": "96.74%",
     "time": 1429,
     "timeDay": 1007,
-    "timeWeek": 6061,
+    "timeWeek": 6407,
     "timeMonth": 5892,
     "timeYear": 1659,
     "dailyMinutesDown": {
@@ -189,18 +189,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "96.51%",
-    "uptimeMonth": "94.84%",
+    "uptime": "99.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "94.87%",
     "uptimeYear": "99.37%",
     "time": 1246,
     "timeDay": 665,
-    "timeWeek": 1511,
-    "timeMonth": 1361,
+    "timeWeek": 1526,
+    "timeMonth": 1364,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2023-12-16": 11,
       "2023-12-14": 17,
       "2023-12-13": 153,
       "2023-12-11": 143,
@@ -259,7 +258,8 @@
       "2023-09-06": 17,
       "2023-09-05": 50,
       "2023-09-04": 21,
-      "2023-09-03": 49
+      "2023-09-03": 49,
+      "2023-09-02": 19
     }
   },
   {
@@ -267,16 +267,16 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "98.16%",
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "98.13%",
     "uptimeWeek": "97.71%",
     "uptimeMonth": "92.76%",
-    "uptimeYear": "98.10%",
+    "uptimeYear": "98.11%",
     "time": 1191,
     "timeDay": 884,
     "timeWeek": 987,
-    "timeMonth": 1044,
+    "timeMonth": 1046,
     "timeYear": 1216,
     "dailyMinutesDown": {
       "2023-12-16": 26,
@@ -361,8 +361,7 @@
       "2023-04-20": 116,
       "2023-04-17": 25,
       "2023-04-14": 32,
-      "2023-04-13": 20,
-      "2023-04-12": 37
+      "2023-04-13": 20
     }
   },
   {
