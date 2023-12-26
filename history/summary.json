@@ -13,7 +13,7 @@
     "time": 1065,
     "timeDay": 0,
     "timeWeek": 863,
-    "timeMonth": 1431,
+    "timeMonth": 993,
     "timeYear": 1222,
     "dailyMinutesDown": {
       "2023-12-07": 653,
@@ -48,7 +48,7 @@
     "time": 848,
     "timeDay": 0,
     "timeWeek": 937,
-    "timeMonth": 1383,
+    "timeMonth": 1401,
     "timeYear": 927,
     "dailyMinutesDown": {
       "2023-12-07": 848,
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/aafy.yucatan.gob.mx.ico",
     "slug": "aafy-home",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "98.60%",
@@ -188,17 +188,16 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "96.90%",
-    "uptimeWeek": "96.86%",
-    "uptimeMonth": "94.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.96%",
+    "uptimeMonth": "94.57%",
     "uptimeYear": "99.37%",
     "time": 1242,
-    "timeDay": 1072,
-    "timeWeek": 1038,
-    "timeMonth": 1270,
+    "timeDay": 631,
+    "timeWeek": 1048,
+    "timeMonth": 1271,
     "timeYear": 1158,
     "dailyMinutesDown": {
-      "2023-12-26": 11,
       "2023-12-25": 34,
       "2023-12-24": 41,
       "2023-12-23": 38,
@@ -251,7 +250,8 @@
       "2023-10-20": 17,
       "2023-10-19": 26,
       "2023-10-16": 31,
-      "2023-10-15": 74
+      "2023-10-15": 74,
+      "2023-10-14": 15
     }
   },
   {
@@ -259,18 +259,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.44%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "93.30%",
-    "uptimeYear": "98.11%",
+    "uptimeYear": "98.13%",
     "time": 1190,
     "timeDay": 886,
-    "timeWeek": 891,
+    "timeWeek": 901,
     "timeMonth": 1046,
     "timeYear": 1213,
     "dailyMinutesDown": {
+      "2023-12-26": 1,
       "2023-12-25": 19,
       "2023-12-22": 20,
       "2023-12-19": 18,
@@ -353,8 +354,7 @@
       "2023-05-09": 17,
       "2023-05-05": 53,
       "2023-05-03": 21,
-      "2023-04-29": 43,
-      "2023-04-20": 116
+      "2023-04-29": 43
     }
   },
   {
