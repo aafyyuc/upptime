@@ -189,17 +189,17 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "96.50%",
+    "uptimeYear": "99.35%",
     "time": 1239,
     "timeDay": 984,
     "timeWeek": 1539,
-    "timeMonth": 1489,
+    "timeMonth": 1491,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2024-01-08": 27,
+      "2024-01-08": 16,
       "2024-01-07": 74,
       "2024-01-06": 119,
       "2024-01-04": 39,
@@ -243,7 +243,7 @@
       "2023-11-19": 18,
       "2023-11-18": 23,
       "2023-11-17": 58,
-      "2023-11-16": 26
+      "2023-11-16": 46
     }
   },
   {
@@ -259,7 +259,7 @@
     "uptimeYear": "98.15%",
     "time": 1227,
     "timeDay": 947,
-    "timeWeek": 1919,
+    "timeWeek": 1956,
     "timeMonth": 1271,
     "timeYear": 1245,
     "dailyMinutesDown": {
@@ -603,10 +603,10 @@
     "url": "http://www.dpechcutz.dx.am/services/phpprocessparams.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.dpechcutz.dx.am.ico",
     "slug": "awardspace-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.77%",
     "time": 1015,
@@ -615,6 +615,7 @@
     "timeMonth": 1112,
     "timeYear": 959,
     "dailyMinutesDown": {
+      "2024-01-08": 1,
       "2024-01-04": 21,
       "2023-12-27": 18,
       "2023-12-25": 30,
