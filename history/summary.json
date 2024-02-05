@@ -191,13 +191,13 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "67.93%",
+    "uptimeDay": "69.37%",
     "uptimeWeek": "91.90%",
     "uptimeMonth": "93.58%",
-    "uptimeYear": "99.25%",
-    "time": 1192,
+    "uptimeYear": "99.26%",
+    "time": 1193,
     "timeDay": 1642,
     "timeWeek": 951,
     "timeMonth": 1309,
@@ -247,7 +247,7 @@
       "2023-12-17": 21,
       "2023-12-14": 17,
       "2023-12-13": 153,
-      "2023-12-11": 42
+      "2023-12-11": 16
     }
   },
   {
@@ -257,17 +257,17 @@
     "slug": "servicos-vue",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "95.65%",
-    "uptimeMonth": "97.47%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "95.76%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "98.79%",
     "time": 1257,
     "timeDay": 1402,
     "timeWeek": 1034,
     "timeMonth": 1464,
-    "timeYear": 1258,
+    "timeYear": 1259,
     "dailyMinutesDown": {
-      "2024-02-05": 36,
+      "2024-02-05": 25,
       "2024-02-02": 100,
       "2024-02-01": 243,
       "2024-01-31": 33,
@@ -347,7 +347,8 @@
       "2023-07-12": 27,
       "2023-07-11": 19,
       "2023-07-10": 27,
-      "2023-07-08": 16
+      "2023-07-08": 16,
+      "2023-07-07": 21
     }
   },
   {
