@@ -137,7 +137,7 @@
     "uptimeYear": "96.37%",
     "time": 1509,
     "timeDay": 1915,
-    "timeWeek": 841,
+    "timeWeek": 839,
     "timeMonth": 975,
     "timeYear": 1700,
     "dailyMinutesDown": {
@@ -211,7 +211,7 @@
     "timeDay": 631,
     "timeWeek": 804,
     "timeMonth": 999,
-    "timeYear": 1182,
+    "timeYear": 1183,
     "dailyMinutesDown": {
       "2024-02-12": 17,
       "2024-02-11": 18,
@@ -267,9 +267,9 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "98.81%",
@@ -277,8 +277,9 @@
     "timeDay": 466,
     "timeWeek": 2959,
     "timeMonth": 1440,
-    "timeYear": 1297,
+    "timeYear": 1296,
     "dailyMinutesDown": {
+      "2024-02-18": 0,
       "2024-02-15": 16,
       "2024-02-14": 19,
       "2024-02-13": 18,
@@ -359,8 +360,7 @@
       "2023-08-06": 21,
       "2023-08-04": 81,
       "2023-08-03": 3,
-      "2023-08-02": 89,
-      "2023-07-23": 18
+      "2023-08-02": 89
     }
   },
   {
@@ -378,7 +378,7 @@
     "timeDay": 414,
     "timeWeek": 484,
     "timeMonth": 610,
-    "timeYear": 1353,
+    "timeYear": 1355,
     "dailyMinutesDown": {
       "2024-02-17": 38,
       "2024-01-20": 52,
@@ -454,7 +454,7 @@
     "timeDay": 167,
     "timeWeek": 251,
     "timeMonth": 297,
-    "timeYear": 901,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2024-02-17": 37,
       "2024-01-20": 52,
@@ -518,7 +518,7 @@
     "timeDay": 1524,
     "timeWeek": 731,
     "timeMonth": 670,
-    "timeYear": 1145,
+    "timeYear": 1146,
     "dailyMinutesDown": {
       "2024-02-17": 35,
       "2024-01-20": 52,
@@ -629,7 +629,7 @@
     "uptimeYear": "99.68%",
     "time": 1016,
     "timeDay": 1783,
-    "timeWeek": 899,
+    "timeWeek": 947,
     "timeMonth": 953,
     "timeYear": 953,
     "dailyMinutesDown": {
