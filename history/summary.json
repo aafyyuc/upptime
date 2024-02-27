@@ -275,17 +275,16 @@
     "slug": "servicos-vue",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "98.83%",
     "time": 1283,
     "timeDay": 723,
     "timeWeek": 781,
-    "timeMonth": 1463,
+    "timeMonth": 1469,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2024-02-26": 13,
       "2024-02-22": 17,
       "2024-02-20": 19,
       "2024-02-18": 17,
@@ -365,7 +364,8 @@
       "2023-08-14": 17,
       "2023-08-13": 21,
       "2023-08-11": 17,
-      "2023-08-10": 44
+      "2023-08-10": 44,
+      "2023-08-06": 21
     }
   },
   {
