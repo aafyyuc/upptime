@@ -80,7 +80,7 @@
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.85%",
-    "uptimeMonth": "97.39%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "98.81%",
     "time": 891,
     "timeDay": 758,
@@ -282,18 +282,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "97.62%",
-    "uptimeWeek": "93.39%",
-    "uptimeMonth": "97.96%",
-    "uptimeYear": "98.76%",
+    "uptime": "99.24%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "93.48%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "98.75%",
     "time": 1306,
     "timeDay": 1298,
     "timeWeek": 1963,
     "timeMonth": 1809,
     "timeYear": 1320,
     "dailyMinutesDown": {
-      "2024-03-12": 34,
+      "2024-03-12": 25,
       "2024-03-11": 16,
       "2024-03-10": 17,
       "2024-03-08": 41,
@@ -373,7 +373,8 @@
       "2023-09-16": 16,
       "2023-09-03": 319,
       "2023-09-02": 19,
-      "2023-09-01": 16
+      "2023-09-01": 16,
+      "2023-08-30": 19
     }
   },
   {
@@ -705,8 +706,7 @@
       "2023-07-06": 20,
       "2023-03-28": 22,
       "2023-03-21": 38,
-      "2023-03-20": 51,
-      "2023-03-14": 22
+      "2023-03-20": 51
     }
   }
 ]
