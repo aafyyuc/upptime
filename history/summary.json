@@ -135,12 +135,12 @@
     "slug": "aafy-cfdi",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "98.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.07%",
     "uptimeYear": "96.29%",
     "time": 1419,
-    "timeDay": 771,
+    "timeDay": 669,
     "timeWeek": 766,
     "timeMonth": 1326,
     "timeYear": 1729,
@@ -210,10 +210,10 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "93.02%",
-    "uptimeWeek": "97.97%",
+    "uptimeDay": "92.98%",
+    "uptimeWeek": "97.96%",
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.25%",
     "time": 1155,
@@ -222,7 +222,7 @@
     "timeMonth": 915,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2024-03-13": 37,
+      "2024-03-13": 38,
       "2024-03-12": 91,
       "2024-03-11": 19,
       "2024-03-07": 39,
@@ -273,8 +273,7 @@
       "2024-01-02": 76,
       "2024-01-01": 39,
       "2023-12-30": 77,
-      "2023-12-28": 43,
-      "2023-12-27": 15
+      "2023-12-28": 43
     }
   },
   {
@@ -283,18 +282,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
     "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "93.36%",
-    "uptimeMonth": "98.00%",
+    "uptime": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.48%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "98.75%",
     "time": 1309,
     "timeDay": 1291,
-    "timeWeek": 1504,
+    "timeWeek": 1522,
     "timeMonth": 1838,
     "timeYear": 1319,
     "dailyMinutesDown": {
-      "2024-03-13": 13,
       "2024-03-12": 25,
       "2024-03-11": 16,
       "2024-03-10": 17,
@@ -375,7 +373,8 @@
       "2023-09-16": 16,
       "2023-09-03": 319,
       "2023-09-02": 19,
-      "2023-09-01": 16
+      "2023-09-01": 16,
+      "2023-08-30": 19
     }
   },
   {
