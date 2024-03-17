@@ -1,7 +1,7 @@
 url: https://reemplacamiento.yucatan.gob.mx
-status: up
-code: 200
-responseTime: 750
-lastUpdated: 2024-03-16T23:11:04.693Z
+status: down
+code: 502
+responseTime: 18722
+lastUpdated: 2024-03-17T02:50:12.738Z
 startTime: 2022-10-20T15:48:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
