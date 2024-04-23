@@ -73,7 +73,7 @@
     "timeDay": 691,
     "timeWeek": 751,
     "timeMonth": 838,
-    "timeYear": 938,
+    "timeYear": 939,
     "dailyMinutesDown": {
       "2024-04-08": 124,
       "2024-04-07": 248,
@@ -194,18 +194,19 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "97.09%",
     "uptimeYear": "99.36%",
-    "time": 1168,
+    "time": 1169,
     "timeDay": 1129,
-    "timeWeek": 963,
-    "timeMonth": 1186,
+    "timeWeek": 969,
+    "timeMonth": 1190,
     "timeYear": 1177,
     "dailyMinutesDown": {
+      "2024-04-23": 0,
       "2024-04-21": 21,
       "2024-04-20": 40,
       "2024-04-19": 17,
@@ -261,7 +262,7 @@
       "2024-02-05": 277,
       "2024-02-04": 370,
       "2024-02-03": 115,
-      "2024-02-02": 19
+      "2024-02-02": 0
     }
   },
   {
@@ -271,17 +272,16 @@
     "slug": "servicos-vue",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.21%",
     "uptimeYear": "98.88%",
     "time": 1263,
     "timeDay": 812,
-    "timeWeek": 898,
-    "timeMonth": 978,
+    "timeWeek": 919,
+    "timeMonth": 981,
     "timeYear": 1229,
     "dailyMinutesDown": {
-      "2024-04-23": 11,
       "2024-04-18": 35,
       "2024-04-16": 17,
       "2024-04-15": 64,
@@ -362,7 +362,8 @@
       "2023-11-22": 20,
       "2023-11-20": 24,
       "2023-11-19": 63,
-      "2023-11-16": 25
+      "2023-11-16": 25,
+      "2023-11-08": 16
     }
   },
   {
@@ -371,7 +372,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
