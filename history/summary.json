@@ -13,7 +13,7 @@
     "time": 1094,
     "timeDay": 730,
     "timeWeek": 725,
-    "timeMonth": 747,
+    "timeMonth": 750,
     "timeYear": 936,
     "dailyMinutesDown": {
       "2024-03-19": 24,
@@ -42,7 +42,7 @@
     "time": 901,
     "timeDay": 855,
     "timeWeek": 789,
-    "timeMonth": 816,
+    "timeMonth": 818,
     "timeYear": 928,
     "dailyMinutesDown": {
       "2024-03-19": 23,
@@ -70,7 +70,7 @@
     "time": 893,
     "timeDay": 691,
     "timeWeek": 720,
-    "timeMonth": 845,
+    "timeMonth": 856,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2024-04-08": 124,
@@ -106,8 +106,7 @@
       "2023-05-28": 50,
       "2023-05-10": 266,
       "2023-05-08": 165,
-      "2023-05-07": 119,
-      "2023-05-02": 31
+      "2023-05-07": 119
     }
   },
   {
@@ -124,7 +123,7 @@
     "time": 1576,
     "timeDay": 783,
     "timeWeek": 769,
-    "timeMonth": 759,
+    "timeMonth": 761,
     "timeYear": 1586,
     "dailyMinutesDown": {
       "2024-04-30": 39,
@@ -193,17 +192,17 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "96.60%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "99.48%",
     "time": 1185,
     "timeDay": 1266,
-    "timeWeek": 1626,
-    "timeMonth": 1289,
+    "timeWeek": 1596,
+    "timeMonth": 1306,
     "timeYear": 1191,
     "dailyMinutesDown": {
-      "2024-04-30": 39,
+      "2024-04-30": 28,
       "2024-04-29": 71,
       "2024-04-28": 55,
       "2024-04-27": 38,
@@ -252,7 +251,8 @@
       "2024-03-03": 67,
       "2024-03-02": 18,
       "2024-03-01": 43,
-      "2024-02-28": 21
+      "2024-02-28": 21,
+      "2024-02-27": 20
     }
   },
   {
@@ -269,7 +269,7 @@
     "time": 1271,
     "timeDay": 682,
     "timeWeek": 1109,
-    "timeMonth": 998,
+    "timeMonth": 1013,
     "timeYear": 1231,
     "dailyMinutesDown": {
       "2024-04-30": 15,
@@ -371,7 +371,7 @@
     "time": 1260,
     "timeDay": 508,
     "timeWeek": 547,
-    "timeMonth": 1037,
+    "timeMonth": 1049,
     "timeYear": 1158,
     "dailyMinutesDown": {
       "2024-04-24": 39,
@@ -443,7 +443,7 @@
     "time": 879,
     "timeDay": 195,
     "timeWeek": 209,
-    "timeMonth": 665,
+    "timeMonth": 680,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2024-04-24": 27,
@@ -505,7 +505,7 @@
     "time": 1092,
     "timeDay": 307,
     "timeWeek": 306,
-    "timeMonth": 908,
+    "timeMonth": 928,
     "timeYear": 990,
     "dailyMinutesDown": {
       "2024-04-24": 26,
@@ -569,7 +569,7 @@
     "time": 1258,
     "timeDay": 1036,
     "timeWeek": 1347,
-    "timeMonth": 1642,
+    "timeMonth": 1662,
     "timeYear": 1304,
     "dailyMinutesDown": {
       "2024-04-22": 42,
@@ -609,12 +609,12 @@
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.66%",
     "time": 980,
     "timeDay": 113,
     "timeWeek": 991,
-    "timeMonth": 1033,
+    "timeMonth": 992,
     "timeYear": 934,
     "dailyMinutesDown": {
       "2024-04-22": 34,
