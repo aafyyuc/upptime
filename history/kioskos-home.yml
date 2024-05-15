@@ -1,7 +1,7 @@
 url: https://recaudacion.yucatan.gob.mx
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-15T13:57:40.224Z
+status: up
+code: 200
+responseTime: 788
+lastUpdated: 2024-05-15T14:18:48.981Z
 startTime: 2022-06-25T23:20:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
