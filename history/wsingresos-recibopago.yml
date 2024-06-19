@@ -1,7 +1,7 @@
 url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsRecibosPagosWeb.r
 status: degraded
 code: 200
-responseTime: 6208
-lastUpdated: 2024-06-19T22:38:36.114Z
+responseTime: 6202
+lastUpdated: 2024-06-19T23:12:09.714Z
 startTime: 2022-10-20T02:38:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
