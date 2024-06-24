@@ -121,7 +121,7 @@
     "time": 1492,
     "timeDay": 686,
     "timeWeek": 768,
-    "timeMonth": 774,
+    "timeMonth": 778,
     "timeYear": 1575,
     "dailyMinutesDown": {
       "2024-06-01": 58,
@@ -189,17 +189,16 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "97.49%",
-    "uptimeWeek": "97.09%",
-    "uptimeMonth": "96.64%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "97.20%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "99.52%",
     "time": 1217,
     "timeDay": 722,
-    "timeWeek": 998,
+    "timeWeek": 1000,
     "timeMonth": 1381,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2024-06-24": 11,
       "2024-06-23": 75,
       "2024-06-22": 54,
       "2024-06-21": 47,
@@ -247,7 +246,7 @@
       "2024-05-04": 34,
       "2024-05-03": 36,
       "2024-05-02": 54,
-      "2024-05-01": 42
+      "2024-05-01": 73
     }
   },
   {
@@ -255,19 +254,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "94.88%",
-    "uptimeWeek": "96.26%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "96.25%",
     "uptimeMonth": "97.42%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.89%",
     "time": 1198,
     "timeDay": 1398,
     "timeWeek": 1441,
     "timeMonth": 989,
     "timeYear": 1226,
     "dailyMinutesDown": {
-      "2024-06-24": 65,
+      "2024-06-24": 66,
       "2024-06-23": 79,
       "2024-06-21": 97,
       "2024-06-19": 53,
@@ -345,8 +344,7 @@
       "2024-01-30": 26,
       "2024-01-29": 20,
       "2024-01-28": 33,
-      "2024-01-24": 16,
-      "2024-01-23": 21
+      "2024-01-24": 16
     }
   },
   {
@@ -592,7 +590,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dpechcutz.dx.am.ico",
     "slug": "awardspace-ping",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
