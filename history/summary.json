@@ -174,8 +174,8 @@
     "status": "up",
     "uptime": "92.29%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.24%",
-    "uptimeMonth": "17.48%",
+    "uptimeWeek": "84.31%",
+    "uptimeMonth": "17.49%",
     "uptimeYear": "82.94%",
     "time": 1236,
     "timeDay": 828,
@@ -300,9 +300,9 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.94%",
@@ -312,6 +312,7 @@
     "timeMonth": 713,
     "timeYear": 1170,
     "dailyMinutesDown": {
+      "2024-09-10": 1,
       "2024-09-09": 17,
       "2024-07-05": 24,
       "2024-07-03": 26,
@@ -388,8 +389,7 @@
       "2024-02-13": 18,
       "2024-02-12": 18,
       "2024-02-11": 18,
-      "2024-02-09": 20,
-      "2024-02-08": 18
+      "2024-02-09": 20
     }
   },
   {
@@ -593,10 +593,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/reemplacamiento.yucatan.gob.mx.ico",
     "slug": "reemplacamiento-yuc",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.90%",
+    "uptime": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.15%",
     "time": 1355,
     "timeDay": 992,
@@ -604,7 +604,6 @@
     "timeMonth": 998,
     "timeYear": 1453,
     "dailyMinutesDown": {
-      "2024-09-10": 8,
       "2024-09-07": 38,
       "2024-07-03": 20,
       "2024-06-29": 21,
