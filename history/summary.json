@@ -169,17 +169,16 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "92.57%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "98.72%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "82.91%",
     "time": 1218,
-    "timeDay": 561,
-    "timeWeek": 661,
+    "timeDay": 555,
+    "timeWeek": 671,
     "timeMonth": 959,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2024-10-12": 13,
       "2024-10-11": 18,
       "2024-10-10": 19,
       "2024-10-01": 101,
@@ -293,7 +292,8 @@
       "2024-05-24": 21,
       "2024-05-23": 53,
       "2024-05-22": 59,
-      "2024-05-21": 17
+      "2024-05-21": 17,
+      "2024-05-20": 24
     }
   },
   {
@@ -301,18 +301,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "93.66%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "93.65%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "98.84%",
     "time": 1158,
-    "timeDay": 677,
+    "timeDay": 593,
     "timeWeek": 1506,
     "timeMonth": 1113,
     "timeYear": 1178,
     "dailyMinutesDown": {
+      "2024-10-12": 1,
       "2024-10-11": 19,
       "2024-10-10": 297,
       "2024-10-08": 20,
@@ -389,8 +390,7 @@
       "2024-03-04": 18,
       "2024-03-01": 18,
       "2024-02-29": 34,
-      "2024-02-22": 17,
-      "2024-02-20": 19
+      "2024-02-22": 17
     }
   },
   {
@@ -599,7 +599,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reemplacamiento.yucatan.gob.mx.ico",
     "slug": "reemplacamiento-yuc",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
