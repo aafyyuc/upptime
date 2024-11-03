@@ -12,7 +12,7 @@
     "uptimeYear": "99.74%",
     "time": 869,
     "timeDay": 812,
-    "timeWeek": 724,
+    "timeWeek": 747,
     "timeMonth": 763,
     "timeYear": 860,
     "dailyMinutesDown": {
@@ -41,7 +41,7 @@
     "uptimeYear": "99.56%",
     "time": 884,
     "timeDay": 1164,
-    "timeWeek": 800,
+    "timeWeek": 827,
     "timeMonth": 821,
     "timeYear": 903,
     "dailyMinutesDown": {
@@ -62,14 +62,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/aafy.yucatan.gob.mx.ico",
     "slug": "aafy-home",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.48%",
     "time": 888,
     "timeDay": 646,
-    "timeWeek": 685,
+    "timeWeek": 707,
     "timeMonth": 698,
     "timeYear": 861,
     "dailyMinutesDown": {
@@ -119,8 +119,8 @@
     "uptimeYear": "98.33%",
     "time": 1663,
     "timeDay": 1029,
-    "timeWeek": 936,
-    "timeMonth": 991,
+    "timeWeek": 964,
+    "timeMonth": 987,
     "timeYear": 1692,
     "dailyMinutesDown": {
       "2024-10-23": 77,
@@ -177,16 +177,16 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
-    "uptime": "92.76%",
-    "uptimeDay": "96.55%",
+    "status": "down",
+    "uptime": "92.77%",
+    "uptimeDay": "96.52%",
     "uptimeWeek": "98.15%",
     "uptimeMonth": "98.21%",
-    "uptimeYear": "82.91%",
+    "uptimeYear": "82.92%",
     "time": 1252,
-    "timeDay": 1000,
-    "timeWeek": 854,
-    "timeMonth": 1497,
+    "timeDay": 1095,
+    "timeWeek": 868,
+    "timeMonth": 1505,
     "timeYear": 1262,
     "dailyMinutesDown": {
       "2024-11-03": 50,
@@ -304,8 +304,7 @@
       "2024-06-10": 79,
       "2024-06-09": 63,
       "2024-06-08": 40,
-      "2024-06-07": 67,
-      "2024-06-06": 29
+      "2024-06-07": 67
     }
   },
   {
@@ -321,7 +320,7 @@
     "uptimeYear": "98.87%",
     "time": 1142,
     "timeDay": 656,
-    "timeWeek": 792,
+    "timeWeek": 815,
     "timeMonth": 1003,
     "timeYear": 1161,
     "dailyMinutesDown": {
@@ -417,7 +416,7 @@
     "uptimeYear": "99.21%",
     "time": 1280,
     "timeDay": 396,
-    "timeWeek": 679,
+    "timeWeek": 706,
     "timeMonth": 1144,
     "timeYear": 1375,
     "dailyMinutesDown": {
@@ -487,7 +486,7 @@
     "uptimeYear": "99.26%",
     "time": 970,
     "timeDay": 186,
-    "timeWeek": 404,
+    "timeWeek": 424,
     "timeMonth": 843,
     "timeYear": 1132,
     "dailyMinutesDown": {
@@ -550,7 +549,7 @@
     "uptimeYear": "99.29%",
     "time": 1043,
     "timeDay": 300,
-    "timeWeek": 484,
+    "timeWeek": 503,
     "timeMonth": 548,
     "timeYear": 1138,
     "dailyMinutesDown": {
@@ -613,7 +612,7 @@
     "uptimeYear": "99.15%",
     "time": 1329,
     "timeDay": 1139,
-    "timeWeek": 904,
+    "timeWeek": 933,
     "timeMonth": 952,
     "timeYear": 1389,
     "dailyMinutesDown": {
