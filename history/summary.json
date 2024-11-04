@@ -114,7 +114,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyws.yucatan.gob.mx.ico",
     "slug": "aafy-cfdi",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
@@ -179,15 +179,15 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "92.77%",
-    "uptimeDay": "96.25%",
+    "uptimeDay": "96.22%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "98.16%",
-    "uptimeYear": "82.91%",
+    "uptimeYear": "82.92%",
     "time": 1254,
-    "timeDay": 1172,
-    "timeWeek": 944,
+    "timeDay": 1276,
+    "timeWeek": 962,
     "timeMonth": 1511,
     "timeYear": 1264,
     "dailyMinutesDown": {
@@ -307,7 +307,7 @@
       "2024-06-10": 79,
       "2024-06-09": 63,
       "2024-06-08": 40,
-      "2024-06-07": 67
+      "2024-06-07": 44
     }
   },
   {
@@ -323,7 +323,7 @@
     "uptimeYear": "98.87%",
     "time": 1141,
     "timeDay": 637,
-    "timeWeek": 808,
+    "timeWeek": 753,
     "timeMonth": 996,
     "timeYear": 1160,
     "dailyMinutesDown": {
