@@ -73,7 +73,7 @@
     "timeDay": 977,
     "timeWeek": 788,
     "timeMonth": 719,
-    "timeYear": 860,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2024-11-01": 54,
       "2024-10-20": 38,
@@ -122,7 +122,7 @@
     "timeDay": 961,
     "timeWeek": 1019,
     "timeMonth": 993,
-    "timeYear": 1695,
+    "timeYear": 1697,
     "dailyMinutesDown": {
       "2024-10-23": 77,
       "2024-10-17": 27,
@@ -178,9 +178,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "92.81%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "97.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "97.89%",
     "uptimeYear": "82.92%",
     "time": 1256,
     "timeDay": 712,
@@ -188,7 +188,6 @@
     "timeMonth": 1463,
     "timeYear": 1263,
     "dailyMinutesDown": {
-      "2024-11-08": 7,
       "2024-11-07": 16,
       "2024-11-06": 38,
       "2024-11-05": 40,
@@ -306,7 +305,7 @@
       "2024-06-12": 76,
       "2024-06-11": 25,
       "2024-06-10": 79,
-      "2024-06-09": 4
+      "2024-06-09": 21
     }
   },
   {
@@ -314,9 +313,9 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.71%",
     "uptimeMonth": "97.59%",
     "uptimeYear": "98.87%",
@@ -324,8 +323,9 @@
     "timeDay": 1301,
     "timeWeek": 776,
     "timeMonth": 850,
-    "timeYear": 1156,
+    "timeYear": 1157,
     "dailyMinutesDown": {
+      "2024-11-08": 0,
       "2024-11-05": 17,
       "2024-11-04": 21,
       "2024-11-02": 294,
@@ -401,8 +401,7 @@
       "2024-04-10": 21,
       "2024-04-09": 22,
       "2024-04-08": 20,
-      "2024-04-06": 15,
-      "2024-04-03": 17
+      "2024-04-06": 15
     }
   },
   {
@@ -420,7 +419,7 @@
     "timeDay": 420,
     "timeWeek": 859,
     "timeMonth": 622,
-    "timeYear": 1379,
+    "timeYear": 1381,
     "dailyMinutesDown": {
       "2024-11-07": 18,
       "2024-11-02": 65,
@@ -490,7 +489,7 @@
     "timeDay": 196,
     "timeWeek": 575,
     "timeMonth": 354,
-    "timeYear": 1135,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2024-11-07": 18,
       "2024-11-02": 65,
@@ -553,7 +552,7 @@
     "timeDay": 334,
     "timeWeek": 514,
     "timeMonth": 378,
-    "timeYear": 1139,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2024-11-02": 65,
       "2024-10-17": 27,
@@ -616,7 +615,7 @@
     "timeDay": 1210,
     "timeWeek": 1872,
     "timeMonth": 1143,
-    "timeYear": 1404,
+    "timeYear": 1405,
     "dailyMinutesDown": {
       "2024-10-23": 76,
       "2024-10-17": 27,
@@ -656,7 +655,7 @@
     "timeDay": 1745,
     "timeWeek": 1479,
     "timeMonth": 980,
-    "timeYear": 983,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2024-09-29": 16,
       "2024-09-27": 15,
