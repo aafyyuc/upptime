@@ -176,14 +176,14 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "93.00%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "98.94%",
     "uptimeMonth": "98.44%",
-    "uptimeYear": "82.94%",
+    "uptimeYear": "82.95%",
     "time": 1283,
-    "timeDay": 1033,
+    "timeDay": 1059,
     "timeWeek": 1570,
     "timeMonth": 1300,
     "timeYear": 1287,
@@ -307,7 +307,7 @@
       "2024-06-24": 21,
       "2024-06-23": 75,
       "2024-06-22": 54,
-      "2024-06-21": 47
+      "2024-06-21": 22
     }
   },
   {
@@ -611,7 +611,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reemplacamiento.yucatan.gob.mx.ico",
     "slug": "reemplacamiento-yuc",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "96.73%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.70%",
