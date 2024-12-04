@@ -176,12 +176,12 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
-    "uptime": "93.02%",
-    "uptimeDay": "96.85%",
-    "uptimeWeek": "97.95%",
+    "status": "down",
+    "uptime": "93.03%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "97.94%",
     "uptimeMonth": "98.46%",
-    "uptimeYear": "82.94%",
+    "uptimeYear": "82.95%",
     "time": 1279,
     "timeDay": 885,
     "timeWeek": 829,
@@ -308,8 +308,7 @@
       "2024-06-27": 115,
       "2024-06-26": 40,
       "2024-06-25": 17,
-      "2024-06-24": 21,
-      "2024-06-23": 26
+      "2024-06-24": 21
     }
   },
   {
