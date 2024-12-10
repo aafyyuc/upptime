@@ -307,9 +307,9 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "97.96%",
+    "uptimeDay": "97.93%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "98.87%",
@@ -395,7 +395,7 @@
       "2024-05-15": 247,
       "2024-05-14": 39,
       "2024-05-13": 20,
-      "2024-05-12": 34
+      "2024-05-12": 17
     }
   },
   {
