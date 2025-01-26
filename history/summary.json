@@ -178,7 +178,7 @@
     "time": 1221,
     "timeDay": 4308,
     "timeWeek": 1778,
-    "timeMonth": 1134,
+    "timeMonth": 1140,
     "timeYear": 1212,
     "dailyMinutesDown": {
       "2025-01-25": 35,
@@ -253,9 +253,9 @@
     "slug": "servicos-vue",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.22%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.31%",
     "time": 1139,
     "timeDay": 1991,
@@ -263,7 +263,7 @@
     "timeMonth": 956,
     "timeYear": 1083,
     "dailyMinutesDown": {
-      "2025-01-25": 26,
+      "2025-01-25": 18,
       "2025-01-23": 42,
       "2025-01-17": 45,
       "2025-01-13": 20,
@@ -340,7 +340,8 @@
       "2024-06-10": 22,
       "2024-06-09": 25,
       "2024-06-06": 215,
-      "2024-06-04": 29
+      "2024-06-04": 29,
+      "2024-05-30": 20
     }
   },
   {
