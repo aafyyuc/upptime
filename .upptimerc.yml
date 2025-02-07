@@ -54,8 +54,14 @@ sites:
     headers:
      - "Content-Type: application/x-www-form-urlencoded"
     body: cOpcion=obtenerDetalleReferencia&cLineaReferencia=121140858799880534337181289
-
-
+  - name: wsseguridad - IniciaSesion
+    method: POST
+    url: https://wsseguridad.yucatan.gob.mx/WSSession.asmx/IniciaSesion
+    maxResponseTime: 2000
+    headers:
+     - "Content-Type: application/json"
+    body: '{"usuario":"*","pwd":"**","key":"***"}'
+    
 assignees:
   - aafyyuc
 
