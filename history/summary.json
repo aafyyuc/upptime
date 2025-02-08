@@ -651,19 +651,19 @@
     "url": "https://wsseguridad.yucatan.gob.mx/WSSession.asmx/IniciaSesion",
     "icon": "https://icons.duckduckgo.com/ip3/wsseguridad.yucatan.gob.mx.ico",
     "slug": "wsseguridad-inicia-sesion",
-    "status": "down",
-    "uptime": "96.24%",
-    "uptimeDay": "96.16%",
-    "uptimeWeek": "96.24%",
-    "uptimeMonth": "96.24%",
-    "uptimeYear": "96.24%",
-    "time": 709,
-    "timeDay": 778,
-    "timeWeek": 709,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "status": "up",
+    "uptime": "93.99%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "93.99%",
+    "uptimeMonth": "93.99%",
+    "uptimeYear": "93.99%",
+    "time": 803,
+    "timeDay": 880,
+    "timeWeek": 803,
+    "timeMonth": 803,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2025-02-08": 55
+      "2025-02-08": 91
     }
   }
 ]
