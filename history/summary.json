@@ -239,18 +239,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "96.67%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.36%",
     "time": 1064,
-    "timeDay": 863,
+    "timeDay": 1019,
     "timeWeek": 806,
     "timeMonth": 771,
     "timeYear": 973,
     "dailyMinutesDown": {
+      "2025-03-09": 1,
       "2025-03-08": 48,
       "2025-03-06": 23,
       "2025-02-26": 27,
@@ -333,7 +334,7 @@
       "2024-06-23": 79,
       "2024-06-21": 97,
       "2024-06-19": 53,
-      "2024-06-18": 35
+      "2024-06-18": 18
     }
   },
   {
