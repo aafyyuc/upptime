@@ -144,18 +144,19 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 1193,
     "timeDay": 1843,
     "timeWeek": 960,
     "timeMonth": 764,
-    "timeYear": 1211,
+    "timeYear": 1197,
     "dailyMinutesDown": {
+      "2025-04-24": 1,
       "2025-04-21": 23,
       "2025-04-16": 20,
       "2025-04-14": 30,
@@ -225,7 +226,7 @@
       "2024-11-07": 16,
       "2024-11-06": 38,
       "2024-11-05": 40,
-      "2024-11-04": 44
+      "2024-11-04": 23
     }
   },
   {
@@ -233,18 +234,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.82%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "99.36%",
-    "time": 956,
-    "timeDay": 1529,
-    "timeWeek": 987,
-    "timeMonth": 783,
-    "timeYear": 956,
+    "time": 957,
+    "timeDay": 2488,
+    "timeWeek": 1173,
+    "timeMonth": 839,
+    "timeYear": 957,
     "dailyMinutesDown": {
+      "2025-04-24": 1,
       "2025-04-23": 22,
       "2025-04-22": 44,
       "2025-04-19": 38,
@@ -331,8 +333,7 @@
       "2024-07-03": 26,
       "2024-07-01": 25,
       "2024-06-30": 64,
-      "2024-06-29": 21,
-      "2024-06-28": 23
+      "2024-06-29": 21
     }
   },
   {
@@ -564,7 +565,7 @@
     "timeDay": 1348,
     "timeWeek": 1191,
     "timeMonth": 1194,
-    "timeYear": 1329,
+    "timeYear": 1321,
     "dailyMinutesDown": {
       "2025-03-17": 200,
       "2025-01-26": 47,
