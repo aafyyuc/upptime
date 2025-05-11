@@ -1,7 +1,7 @@
 url: https://wsseguridad.yucatan.gob.mx/WSSession.asmx/IniciaSesion
-status: up
-code: 200
-responseTime: 545
-lastUpdated: 2025-05-10T23:17:51.683Z
+status: degraded
+code: 404
+responseTime: 3006
+lastUpdated: 2025-05-11T08:11:58.747Z
 startTime: 2025-02-07T03:42:20.170Z
 generator: Upptime <https://github.com/upptime/upptime>
