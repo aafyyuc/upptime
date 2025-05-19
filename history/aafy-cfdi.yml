@@ -1,7 +1,7 @@
 url: https://srvshyws.yucatan.gob.mx/cfdi2.0/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-19T17:43:43.758Z
+status: up
+code: 200
+responseTime: 1149
+lastUpdated: 2025-05-19T18:56:39.501Z
 startTime: 2022-02-25T16:05:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
