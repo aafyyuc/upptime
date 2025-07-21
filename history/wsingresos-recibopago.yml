@@ -1,7 +1,7 @@
 url: https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsRecibosPagosWeb.r
-status: up
-code: 200
-responseTime: 224
-lastUpdated: 2025-07-21T19:44:51.521Z
+status: down
+code: 403
+responseTime: 6
+lastUpdated: 2025-07-21T19:52:09.665Z
 startTime: 2022-10-20T02:38:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
