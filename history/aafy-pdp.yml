@@ -1,7 +1,7 @@
 url: https://pagos.yucatan.gob.mx
-status: down
-code: 502
-responseTime: 3152
-lastUpdated: 2025-07-23T04:11:11.569Z
+status: up
+code: 200
+responseTime: 493
+lastUpdated: 2025-07-23T04:52:25.326Z
 startTime: 2022-02-06T03:12:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
