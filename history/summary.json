@@ -375,19 +375,19 @@
     "url": "https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/compartido/wspagosoxxo.r",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
-    "status": "up",
+    "status": "down",
     "uptime": "96.89%",
-    "uptimeDay": "3.07%",
-    "uptimeWeek": "3.58%",
-    "uptimeMonth": "10.76%",
+    "uptimeDay": "3.55%",
+    "uptimeWeek": "3.65%",
+    "uptimeMonth": "10.78%",
     "uptimeYear": "91.18%",
-    "time": 1138,
-    "timeDay": 380,
-    "timeWeek": 550,
-    "timeMonth": 547,
-    "timeYear": 966,
+    "time": 1137,
+    "timeDay": 357,
+    "timeWeek": 541,
+    "timeMonth": 544,
+    "timeYear": 965,
     "dailyMinutesDown": {
-      "2025-08-20": 706,
+      "2025-08-20": 707,
       "2025-08-19": 1339,
       "2025-08-18": 1276,
       "2025-08-17": 1404,
@@ -457,8 +457,7 @@
       "2025-01-14": 31,
       "2025-01-02": 17,
       "2024-12-14": 55,
-      "2024-12-10": 26,
-      "2024-11-30": 22
+      "2024-12-10": 26
     }
   },
   {
@@ -478,7 +477,7 @@
     "timeMonth": 158,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2025-08-20": 706,
+      "2025-08-20": 714,
       "2025-08-19": 1440,
       "2025-08-18": 1330,
       "2025-08-17": 1440,
@@ -572,7 +571,7 @@
     "timeMonth": 217,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2025-08-20": 706,
+      "2025-08-20": 714,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
