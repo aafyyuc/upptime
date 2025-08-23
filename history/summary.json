@@ -169,9 +169,9 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.49%",
@@ -181,6 +181,7 @@
     "timeMonth": 3303,
     "timeYear": 1306,
     "dailyMinutesDown": {
+      "2025-08-23": 0,
       "2025-08-15": 186,
       "2025-08-14": 18,
       "2025-08-13": 18,
@@ -258,7 +259,7 @@
       "2024-12-10": 52,
       "2024-12-09": 42,
       "2024-12-08": 23,
-      "2024-12-06": 44
+      "2024-12-06": 15
     }
   },
   {
@@ -375,17 +376,17 @@
     "url": "https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/compartido/wspagosoxxo.r",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
-    "status": "up",
+    "status": "down",
     "uptime": "96.64%",
-    "uptimeDay": "3.25%",
-    "uptimeWeek": "6.26%",
-    "uptimeMonth": "11.23%",
-    "uptimeYear": "90.42%",
+    "uptimeDay": "3.22%",
+    "uptimeWeek": "6.46%",
+    "uptimeMonth": "11.27%",
+    "uptimeYear": "90.43%",
     "time": 1072,
-    "timeDay": 543,
-    "timeWeek": 464,
-    "timeMonth": 534,
-    "timeYear": 946,
+    "timeDay": 508,
+    "timeWeek": 458,
+    "timeMonth": 531,
+    "timeYear": 945,
     "dailyMinutesDown": {
       "2025-08-23": 1086,
       "2025-08-22": 1199,
@@ -448,8 +449,7 @@
       "2025-02-26": 17,
       "2025-02-22": 37,
       "2025-02-21": 40,
-      "2025-02-20": 19,
-      "2025-02-10": 18
+      "2025-02-20": 19
     }
   },
   {
@@ -460,8 +460,8 @@
     "status": "down",
     "uptime": "96.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "26.70%",
-    "uptimeMonth": "14.17%",
+    "uptimeWeek": "26.91%",
+    "uptimeMonth": "14.21%",
     "uptimeYear": "90.57%",
     "time": 912,
     "timeDay": 12,
@@ -553,7 +553,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-generico",
     "status": "down",
-    "uptime": "96.35%",
+    "uptime": "96.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.10%",
@@ -564,7 +564,7 @@
     "timeMonth": 223,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2025-08-23": 1101,
+      "2025-08-23": 1122,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
