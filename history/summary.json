@@ -171,9 +171,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "99.49%",
     "time": 1310,
     "timeDay": 619,
@@ -181,7 +181,6 @@
     "timeMonth": 2533,
     "timeYear": 1297,
     "dailyMinutesDown": {
-      "2025-08-29": 11,
       "2025-08-28": 29,
       "2025-08-25": 21,
       "2025-08-15": 186,
@@ -259,7 +258,8 @@
       "2024-12-13": 22,
       "2024-12-12": 23,
       "2024-12-10": 52,
-      "2024-12-09": 42
+      "2024-12-09": 42,
+      "2024-12-08": 23
     }
   },
   {
@@ -376,17 +376,17 @@
     "url": "https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/compartido/wspagosoxxo.r",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
-    "status": "up",
-    "uptime": "96.29%",
-    "uptimeDay": "93.06%",
-    "uptimeWeek": "27.98%",
-    "uptimeMonth": "17.15%",
-    "uptimeYear": "89.39%",
-    "time": 1070,
-    "timeDay": 978,
-    "timeWeek": 633,
-    "timeMonth": 581,
-    "timeYear": 929,
+    "status": "down",
+    "uptime": "96.30%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "28.04%",
+    "uptimeMonth": "17.16%",
+    "uptimeYear": "89.41%",
+    "time": 1069,
+    "timeDay": 875,
+    "timeWeek": 623,
+    "timeMonth": 578,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2025-08-29": 99,
       "2025-08-28": 23,
@@ -449,7 +449,7 @@
       "2025-04-07": 56,
       "2025-03-27": 80,
       "2025-03-12": 119,
-      "2025-03-10": 83
+      "2025-03-10": 20
     }
   },
   {
@@ -460,7 +460,7 @@
     "status": "down",
     "uptime": "96.35%",
     "uptimeDay": "0.75%",
-    "uptimeWeek": "73.56%",
+    "uptimeWeek": "73.49%",
     "uptimeMonth": "27.77%",
     "uptimeYear": "90.06%",
     "time": 905,
@@ -469,7 +469,7 @@
     "timeMonth": 294,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-08-29": 1121,
+      "2025-08-29": 1127,
       "2025-08-28": 1440,
       "2025-08-27": 104,
       "2025-08-21": 1399,
@@ -567,7 +567,7 @@
     "timeMonth": 253,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2025-08-29": 1121,
+      "2025-08-29": 1128,
       "2025-08-28": 1440,
       "2025-08-27": 1330,
       "2025-08-26": 1440,
