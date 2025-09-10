@@ -182,9 +182,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.99%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.48%",
     "time": 1299,
     "timeDay": 1153,
@@ -192,7 +192,7 @@
     "timeMonth": 2453,
     "timeYear": 1306,
     "dailyMinutesDown": {
-      "2025-09-10": 43,
+      "2025-09-10": 32,
       "2025-09-09": 29,
       "2025-09-08": 19,
       "2025-09-07": 18,
@@ -270,7 +270,8 @@
       "2024-12-17": 75,
       "2024-12-16": 27,
       "2024-12-15": 52,
-      "2024-12-14": 70
+      "2024-12-14": 70,
+      "2024-12-13": 22
     }
   },
   {
@@ -399,7 +400,7 @@
     "timeMonth": 613,
     "timeYear": 919,
     "dailyMinutesDown": {
-      "2025-09-10": 1242,
+      "2025-09-10": 1250,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -483,7 +484,7 @@
     "timeMonth": 305,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2025-09-10": 1242,
+      "2025-09-10": 1250,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -593,7 +594,7 @@
     "timeMonth": 232,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2025-09-10": 1242,
+      "2025-09-10": 1250,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -744,19 +745,19 @@
     "url": "http://www.dpechcutz.dx.am/services/phpprocessparams.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.dpechcutz.dx.am.ico",
     "slug": "awardspace-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "97.51%",
+    "uptimeDay": "97.47%",
     "uptimeWeek": "98.84%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.81%",
-    "time": 1079,
+    "time": 1078,
     "timeDay": 1597,
     "timeWeek": 1302,
     "timeMonth": 1379,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2025-09-10": 36,
+      "2025-09-10": 37,
       "2025-09-04": 81,
       "2025-08-31": 48,
       "2025-08-24": 38,
