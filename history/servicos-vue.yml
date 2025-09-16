@@ -1,7 +1,7 @@
 url: https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos
-status: down
-code: 503
-responseTime: 580
-lastUpdated: 2025-09-16T03:02:43.859Z
+status: up
+code: 200
+responseTime: 539
+lastUpdated: 2025-09-16T04:32:56.699Z
 startTime: 2022-07-19T17:51:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
