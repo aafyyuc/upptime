@@ -124,8 +124,7 @@
       "2024-11-09": 118,
       "2024-11-01": 54,
       "2024-10-20": 38,
-      "2024-10-17": 27,
-      "2024-09-27": 18
+      "2024-10-17": 27
     }
   },
   {
@@ -187,7 +186,7 @@
     "timeDay": 513,
     "timeWeek": 644,
     "timeMonth": 899,
-    "timeYear": 1313,
+    "timeYear": 1314,
     "dailyMinutesDown": {
       "2025-09-22": 16,
       "2025-09-10": 32,
@@ -391,14 +390,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "16.42%",
-    "uptimeYear": "82.78%",
+    "uptimeYear": "82.76%",
     "time": 1019,
     "timeDay": 107,
     "timeWeek": 502,
     "timeMonth": 684,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2025-09-26": 1433,
+      "2025-09-27": 82,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -487,18 +487,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-recibopago",
     "status": "down",
-    "uptime": "93.88%",
+    "uptime": "93.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.98%",
-    "uptimeYear": "82.40%",
+    "uptimeMonth": "1.78%",
+    "uptimeYear": "82.38%",
     "time": 790,
     "timeDay": 7,
     "timeWeek": 43,
     "timeMonth": 305,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-09-26": 1433,
+      "2025-09-27": 82,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -613,18 +614,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-generico",
     "status": "down",
-    "uptime": "93.40%",
+    "uptime": "93.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.78%",
+    "uptimeYear": "80.77%",
     "time": 867,
     "timeDay": 6,
     "timeWeek": 44,
     "timeMonth": 220,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2025-09-26": 1433,
+      "2025-09-27": 82,
+      "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
       "2025-09-23": 1440,
@@ -831,8 +833,7 @@
       "2024-11-22": 77,
       "2024-11-21": 52,
       "2024-11-20": 21,
-      "2024-09-29": 16,
-      "2024-09-27": 15
+      "2024-09-29": 16
     }
   },
   {
