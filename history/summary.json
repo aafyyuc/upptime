@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 673,
-    "timeDay": 483,
-    "timeWeek": 415,
-    "timeMonth": 434,
-    "timeYear": 625,
+    "time": 672,
+    "timeDay": 356,
+    "timeWeek": 408,
+    "timeMonth": 428,
+    "timeYear": 624,
     "dailyMinutesDown": {
       "2025-09-10": 39,
       "2025-09-09": 37,
@@ -32,8 +32,7 @@
       "2025-03-17": 210,
       "2025-01-12": 625,
       "2024-12-11": 16,
-      "2024-11-23": 63,
-      "2024-11-22": 3
+      "2024-11-23": 63
     }
   },
   {
@@ -47,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 722,
-    "timeDay": 568,
-    "timeWeek": 691,
-    "timeMonth": 533,
-    "timeYear": 677,
+    "time": 721,
+    "timeDay": 338,
+    "timeWeek": 668,
+    "timeMonth": 528,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2025-09-10": 32,
       "2025-09-09": 37,
@@ -69,8 +68,7 @@
       "2025-03-17": 208,
       "2025-01-12": 624,
       "2024-12-11": 16,
-      "2024-11-23": 63,
-      "2024-11-22": 3
+      "2024-11-23": 63
     }
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.74%",
-    "time": 907,
-    "timeDay": 610,
-    "timeWeek": 663,
-    "timeMonth": 646,
-    "timeYear": 963,
+    "time": 906,
+    "timeDay": 508,
+    "timeWeek": 640,
+    "timeMonth": 643,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2025-11-04": 15,
       "2025-09-10": 32,
@@ -112,8 +110,7 @@
       "2025-01-24": 143,
       "2024-12-31": 118,
       "2024-12-21": 28,
-      "2024-11-23": 63,
-      "2024-11-22": 3
+      "2024-11-23": 63
     }
   },
   {
@@ -128,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 1234,
-    "timeDay": 920,
-    "timeWeek": 850,
-    "timeMonth": 908,
+    "timeDay": 777,
+    "timeWeek": 828,
+    "timeMonth": 902,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2025-10-21": 47,
@@ -155,8 +152,7 @@
       "2025-01-12": 624,
       "2025-01-11": 34,
       "2024-12-11": 15,
-      "2024-11-23": 63,
-      "2024-11-22": 3
+      "2024-11-23": 63
     }
   },
   {
@@ -165,18 +161,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.49%",
     "time": 1243,
-    "timeDay": 586,
-    "timeWeek": 532,
-    "timeMonth": 907,
+    "timeDay": 528,
+    "timeWeek": 521,
+    "timeMonth": 903,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2025-11-21": 7,
       "2025-11-08": 26,
       "2025-11-07": 16,
       "2025-11-05": 22,
@@ -261,7 +256,7 @@
       "2025-01-08": 19,
       "2025-01-07": 21,
       "2025-01-05": 18,
-      "2025-01-01": 16
+      "2025-01-01": 123
     }
   },
   {
@@ -276,9 +271,9 @@
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.24%",
     "time": 1064,
-    "timeDay": 542,
-    "timeWeek": 702,
-    "timeMonth": 616,
+    "timeDay": 480,
+    "timeWeek": 696,
+    "timeMonth": 613,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2025-11-16": 301,
@@ -387,14 +382,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.44%",
+    "uptimeYear": "67.42%",
     "time": 950,
-    "timeDay": 293,
-    "timeWeek": 825,
-    "timeMonth": 762,
+    "timeDay": 142,
+    "timeWeek": 811,
+    "timeMonth": 759,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2025-11-21": 1381,
+      "2025-11-22": 96,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -539,18 +535,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-recibopago",
     "status": "down",
-    "uptime": "89.22%",
+    "uptime": "89.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.10%",
+    "uptimeYear": "67.07%",
     "time": 650,
-    "timeDay": 59,
-    "timeWeek": 35,
-    "timeMonth": 37,
-    "timeYear": 551,
+    "timeDay": 8,
+    "timeWeek": 32,
+    "timeMonth": 35,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2025-11-21": 1381,
+      "2025-11-22": 96,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -706,8 +703,7 @@
       "2025-01-20": 21,
       "2025-01-14": 30,
       "2024-12-14": 53,
-      "2024-11-23": 64,
-      "2024-11-22": 3
+      "2024-11-23": 64
     }
   },
   {
@@ -716,18 +712,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-generico",
     "status": "down",
-    "uptime": "88.77%",
+    "uptime": "88.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.48%",
-    "time": 772,
-    "timeDay": 59,
-    "timeWeek": 35,
-    "timeMonth": 41,
-    "timeYear": 681,
+    "uptimeYear": "65.45%",
+    "time": 762,
+    "timeDay": 11,
+    "timeWeek": 32,
+    "timeMonth": 39,
+    "timeYear": 680,
     "dailyMinutesDown": {
-      "2025-11-21": 1381,
+      "2025-11-22": 96,
+      "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
@@ -891,8 +888,7 @@
       "2025-01-20": 29,
       "2025-01-14": 28,
       "2024-12-14": 52,
-      "2024-11-23": 64,
-      "2024-11-22": 2
+      "2024-11-23": 64
     }
   },
   {
@@ -906,11 +902,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 1001,
-    "timeDay": 523,
-    "timeWeek": 455,
-    "timeMonth": 448,
-    "timeYear": 925,
+    "time": 1000,
+    "timeDay": 470,
+    "timeWeek": 457,
+    "timeMonth": 447,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2025-09-09": 36,
       "2025-09-08": 19,
@@ -934,8 +930,7 @@
       "2024-12-10": 91,
       "2024-12-04": 46,
       "2024-11-30": 47,
-      "2024-11-23": 64,
-      "2024-11-22": 2
+      "2024-11-23": 64
     }
   },
   {
@@ -946,14 +941,14 @@
     "status": "up",
     "uptime": "99.66%",
     "uptimeDay": "98.34%",
-    "uptimeWeek": "72.60%",
+    "uptimeWeek": "72.86%",
     "uptimeMonth": "93.70%",
     "uptimeYear": "99.23%",
-    "time": 1115,
-    "timeDay": 1314,
-    "timeWeek": 1416,
-    "timeMonth": 1262,
-    "timeYear": 1168,
+    "time": 1113,
+    "timeDay": 728,
+    "timeWeek": 1278,
+    "timeMonth": 1255,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2025-11-21": 24,
       "2025-11-19": 1165,
@@ -988,8 +983,7 @@
       "2025-01-04": 19,
       "2025-01-02": 76,
       "2024-12-22": 16,
-      "2024-12-21": 48,
-      "2024-11-22": 77
+      "2024-12-21": 48
     }
   },
   {
@@ -1003,11 +997,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
-    "time": 1048,
-    "timeDay": 588,
-    "timeWeek": 478,
-    "timeMonth": 473,
-    "timeYear": 1048,
+    "time": 1046,
+    "timeDay": 472,
+    "timeWeek": 476,
+    "timeMonth": 470,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2025-09-26": 22,
       "2025-09-10": 52,
