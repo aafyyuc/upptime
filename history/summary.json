@@ -265,18 +265,19 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.01%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "99.24%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "99.25%",
     "time": 1064,
     "timeDay": 480,
     "timeWeek": 696,
     "timeMonth": 613,
     "timeYear": 1095,
     "dailyMinutesDown": {
+      "2025-11-22": 0,
       "2025-11-16": 301,
       "2025-11-13": 26,
       "2025-11-12": 18,
@@ -370,7 +371,7 @@
       "2024-12-22": 5,
       "2024-12-18": 24,
       "2024-12-13": 72,
-      "2024-12-12": 32
+      "2024-12-12": 3
     }
   },
   {
@@ -390,7 +391,7 @@
     "timeMonth": 838,
     "timeYear": 900,
     "dailyMinutesDown": {
-      "2025-11-22": 1159,
+      "2025-11-22": 1183,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -536,7 +537,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-recibopago",
     "status": "down",
-    "uptime": "89.16%",
+    "uptime": "89.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -547,7 +548,7 @@
     "timeMonth": 35,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2025-11-22": 1159,
+      "2025-11-22": 1183,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
@@ -724,7 +725,7 @@
     "timeMonth": 39,
     "timeYear": 680,
     "dailyMinutesDown": {
-      "2025-11-22": 1159,
+      "2025-11-22": 1183,
       "2025-11-21": 1440,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
