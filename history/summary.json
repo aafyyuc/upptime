@@ -155,9 +155,9 @@
     "slug": "kioskos-home",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.51%",
     "time": 1230,
     "timeDay": 1229,
@@ -165,7 +165,6 @@
     "timeMonth": 850,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2025-12-13": 11,
       "2025-12-06": 20,
       "2025-12-04": 38,
       "2025-12-02": 18,
@@ -251,7 +250,7 @@
       "2025-01-23": 20,
       "2025-01-20": 80,
       "2025-01-19": 18,
-      "2025-01-14": 34
+      "2025-01-14": 55
     }
   },
   {
@@ -269,7 +268,7 @@
     "timeDay": 479,
     "timeWeek": 516,
     "timeMonth": 618,
-    "timeYear": 1076,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2025-12-12": 22,
       "2025-12-03": 15,
@@ -372,18 +371,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
     "status": "down",
-    "uptime": "87.76%",
+    "uptime": "87.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.41%",
+    "uptimeYear": "61.38%",
     "time": 907,
     "timeDay": 273,
     "timeWeek": 211,
     "timeMonth": 658,
     "timeYear": 900,
     "dailyMinutesDown": {
-      "2025-12-13": 1423,
+      "2025-12-14": 112,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -554,14 +554,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "61.08%",
+    "uptimeYear": "61.06%",
     "time": 611,
     "timeDay": 59,
     "timeWeek": 27,
     "timeMonth": 34,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2025-12-13": 1423,
+      "2025-12-14": 113,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -737,8 +738,7 @@
       "2025-01-22": 2,
       "2025-01-21": 67,
       "2025-01-20": 21,
-      "2025-01-14": 30,
-      "2024-12-14": 53
+      "2025-01-14": 30
     }
   },
   {
@@ -747,18 +747,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-generico",
     "status": "down",
-    "uptime": "87.07%",
+    "uptime": "87.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.46%",
+    "uptimeYear": "59.44%",
     "time": 720,
     "timeDay": 60,
     "timeWeek": 26,
     "timeMonth": 34,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-12-13": 1423,
+      "2025-12-14": 113,
+      "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -942,8 +943,7 @@
       "2025-01-22": 0,
       "2025-01-21": 65,
       "2025-01-20": 29,
-      "2025-01-14": 28,
-      "2024-12-14": 52
+      "2025-01-14": 28
     }
   },
   {
@@ -981,8 +981,7 @@
       "2025-01-18": 18,
       "2025-01-14": 27,
       "2025-01-12": 623,
-      "2025-01-02": 22,
-      "2024-12-14": 46
+      "2025-01-02": 22
     }
   },
   {
