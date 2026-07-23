@@ -4,17 +4,17 @@
     "url": "https://pagos.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/pagos.yucatan.gob.mx.ico",
     "slug": "aafy-pdp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.19%",
     "time": 501,
     "timeDay": 422,
     "timeWeek": 425,
     "timeMonth": 455,
-    "timeYear": 462,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2025-07-31": 65,
       "2025-08-05": 16,
@@ -34,7 +34,8 @@
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-06-03": 103,
-      "2026-07-17": 92
+      "2026-07-17": 92,
+      "2026-07-23": 3
     }
   },
   {
@@ -42,17 +43,17 @@
     "url": "https://pagosreferencia.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/pagosreferencia.yucatan.gob.mx.ico",
     "slug": "aafy-referenciados",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.17%",
     "time": 545,
     "timeDay": 490,
     "timeWeek": 517,
     "timeMonth": 468,
-    "timeYear": 496,
+    "timeYear": 495,
     "dailyMinutesDown": {
       "2025-07-31": 121,
       "2025-08-05": 15,
@@ -72,7 +73,8 @@
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-06-03": 103,
-      "2026-07-17": 91
+      "2026-07-17": 91,
+      "2026-07-23": 2
     }
   },
   {
@@ -80,10 +82,10 @@
     "url": "https://aafy.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/aafy.yucatan.gob.mx.ico",
     "slug": "aafy-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
     "time": 940,
@@ -98,7 +100,8 @@
       "2025-09-10": 32,
       "2025-11-04": 15,
       "2026-06-03": 103,
-      "2026-07-17": 91
+      "2026-07-17": 91,
+      "2026-07-23": 2
     }
   },
   {
@@ -106,10 +109,10 @@
     "url": "https://srvshyws.yucatan.gob.mx/cfdi2.0/",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyws.yucatan.gob.mx.ico",
     "slug": "aafy-cfdi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.61%",
     "time": 1019,
@@ -134,7 +137,8 @@
       "2026-05-23": 713,
       "2026-05-22": 7,
       "2026-06-03": 103,
-      "2026-07-17": 91
+      "2026-07-17": 91,
+      "2026-07-23": 2
     }
   },
   {
@@ -142,19 +146,18 @@
     "url": "https://recaudacion.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/recaudacion.yucatan.gob.mx.ico",
     "slug": "kioskos-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "97.64%",
-    "time": 1361,
+    "time": 1362,
     "timeDay": 708,
     "timeWeek": 1465,
     "timeMonth": 1808,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2025-10-24": 31,
       "2025-10-29": 29,
       "2025-11-02": 17,
       "2025-11-05": 22,
@@ -236,7 +239,8 @@
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-06-03": 103,
-      "2026-07-17": 91
+      "2026-07-17": 91,
+      "2026-07-23": 2
     }
   },
   {
@@ -244,13 +248,13 @@
     "url": "https://wsaafyvue.yucatan.gob.mx/vue/services/consultar/recibos",
     "icon": "https://icons.duckduckgo.com/ip3/wsaafyvue.yucatan.gob.mx.ico",
     "slug": "servicos-vue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "97.47%",
-    "time": 997,
+    "time": 998,
     "timeDay": 585,
     "timeWeek": 557,
     "timeMonth": 592,
@@ -336,7 +340,8 @@
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-06-03": 102,
-      "2026-07-17": 91
+      "2026-07-17": 91,
+      "2026-07-23": 2
     }
   },
   {
@@ -344,13 +349,13 @@
     "url": "https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/compartido/wspagosoxxo.r",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
-    "status": "up",
+    "status": "down",
     "uptime": "75.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "83.07%",
-    "uptimeYear": "9.45%",
-    "time": 591,
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "83.31%",
+    "uptimeYear": "9.47%",
+    "time": 589,
     "timeDay": 458,
     "timeWeek": 646,
     "timeMonth": 510,
@@ -693,7 +698,8 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2026-07-17": 90
+      "2026-07-17": 90,
+      "2026-07-23": 2
     }
   },
   {
@@ -701,13 +707,13 @@
     "url": "https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsRecibosPagosWeb.r",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-recibopago",
-    "status": "up",
-    "uptime": "75.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "83.07%",
-    "uptimeYear": "9.36%",
-    "time": 221,
+    "status": "down",
+    "uptime": "75.25%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "83.31%",
+    "uptimeYear": "9.38%",
+    "time": 217,
     "timeDay": 389,
     "timeWeek": 369,
     "timeMonth": 330,
@@ -1046,7 +1052,8 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2026-07-17": 90
+      "2026-07-17": 90,
+      "2026-07-23": 1
     }
   },
   {
@@ -1054,12 +1061,12 @@
     "url": "https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsGenericoPagosWeb.r",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-generico",
-    "status": "up",
+    "status": "down",
     "uptime": "74.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "83.07%",
-    "uptimeYear": "7.74%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "83.31%",
+    "uptimeYear": "7.76%",
     "time": 226,
     "timeDay": 503,
     "timeWeek": 476,
@@ -1404,7 +1411,8 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2026-07-17": 90
+      "2026-07-17": 90,
+      "2026-07-23": 1
     }
   },
   {
@@ -1412,13 +1420,13 @@
     "url": "https://reemplacamiento.yucatan.gob.mx",
     "icon": "https://icons.duckduckgo.com/ip3/reemplacamiento.yucatan.gob.mx.ico",
     "slug": "reemplacamiento-yuc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.10%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.76%",
-    "time": 565,
+    "time": 564,
     "timeDay": 791,
     "timeWeek": 863,
     "timeMonth": 720,
@@ -1433,7 +1441,8 @@
       "2026-01-16": 20,
       "2026-02-07": 15,
       "2026-05-23": 436,
-      "2026-07-17": 90
+      "2026-07-17": 90,
+      "2026-07-23": 1
     }
   },
   {
@@ -1484,11 +1493,11 @@
     "url": "https://wsseguridad.yucatan.gob.mx/WSSession.asmx/IniciaSesion",
     "icon": "https://icons.duckduckgo.com/ip3/wsseguridad.yucatan.gob.mx.ico",
     "slug": "wsseguridad-inicia-sesion",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "98.07%",
     "time": 778,
     "timeDay": 498,
@@ -1516,7 +1525,8 @@
       "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
-      "2026-07-17": 90
+      "2026-07-17": 90,
+      "2026-07-23": 1
     }
   }
 ]
