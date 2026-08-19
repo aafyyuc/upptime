@@ -334,7 +334,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "15.88%",
+    "uptimeYear": "15.89%",
     "time": 577,
     "timeDay": 937,
     "timeWeek": 651,
@@ -991,16 +991,16 @@
     "url": "https://srvshyweb.yucatan.gob.mx/cgi-bin/wspd_cgi.sh/WService=wsingresos/internet/servicios/wsGenericoPagosWeb.r",
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-generico",
-    "status": "degraded",
-    "uptime": "75.35%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.36%",
+    "status": "up",
+    "uptime": "75.34%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "14.34%",
-    "time": 218,
-    "timeDay": 1271,
-    "timeWeek": 1000,
-    "timeMonth": 749,
+    "time": 219,
+    "timeDay": 1015,
+    "timeWeek": 955,
+    "timeMonth": 743,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-08-27": 1330,
@@ -1321,7 +1321,7 @@
       "2026-08-09": 41,
       "2026-08-11": 53,
       "2026-08-18": 32,
-      "2026-08-19": 1
+      "2026-08-19": 26
     }
   },
   {
