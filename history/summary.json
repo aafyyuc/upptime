@@ -234,7 +234,7 @@
     "uptimeDay": "95.21%",
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.59%",
     "time": 849,
     "timeDay": 523,
     "timeWeek": 687,
@@ -319,10 +319,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-oxxo",
     "status": "down",
-    "uptime": "76.38%",
-    "uptimeDay": "93.88%",
-    "uptimeWeek": "99.13%",
-    "uptimeMonth": "99.74%",
+    "uptime": "76.37%",
+    "uptimeDay": "85.10%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "21.81%",
     "time": 569,
     "timeDay": 0,
@@ -618,7 +618,7 @@
       "2026-07-17": 90,
       "2026-07-23": 156,
       "2026-08-24": 27,
-      "2026-09-16": 88
+      "2026-09-16": 215
     }
   },
   {
@@ -628,9 +628,9 @@
     "slug": "wsingresos-recibopago",
     "status": "down",
     "uptime": "76.21%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "85.75%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "21.81%",
     "time": 174,
     "timeDay": 0,
@@ -926,7 +926,7 @@
       "2026-07-17": 90,
       "2026-07-23": 156,
       "2026-08-24": 27,
-      "2026-09-16": 79
+      "2026-09-16": 205
     }
   },
   {
@@ -935,10 +935,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/srvshyweb.yucatan.gob.mx.ico",
     "slug": "wsingresos-generico",
     "status": "down",
-    "uptime": "75.82%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.65%",
+    "uptime": "75.81%",
+    "uptimeDay": "86.40%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "21.79%",
     "time": 208,
     "timeDay": 0,
@@ -1238,7 +1238,7 @@
       "2026-08-18": 32,
       "2026-08-19": 26,
       "2026-08-24": 27,
-      "2026-09-16": 69
+      "2026-09-16": 196
     }
   },
   {
